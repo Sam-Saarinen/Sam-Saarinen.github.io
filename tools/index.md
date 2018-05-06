@@ -7,10 +7,12 @@ In the course of my work, I find myself frequently testing, adopting, and switch
 
 ### Cloud Storage
 For backing up data, synchronizing across devices, and sharing with others/collaborating.
+
 #### Options I've tried
 - Google Drive
 - Dropbox
 - One Drive (Microsoft)
+
 Of these, I like Google Drive the best, mostly because of its integration with Gmail, Google Docs/Spreadsheets/Presentations/Forms, and for its transparent permissions management.
 
 #### Unorthodox Options
