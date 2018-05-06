@@ -38,4 +38,5 @@ I've seen a few services that do this, but I've been using Asana off and on sinc
 ### Repository Management
 I've used GitHub and GitLab. GitLab offers private repositories for free, while GitHub has a small monthly fee to do so. I tend to lean toward GitHub, just because all of the scientific repositories I care about seem to be hosted there.
 
+I hope this was helpful!
 {% include signoff.md %}
