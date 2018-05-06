@@ -12,6 +12,7 @@ For backing up data, synchronizing across devices, and sharing with others/colla
 - Dropbox
 - One Drive (Microsoft)
 Of these, I like Google Drive the best, mostly because of its integration with Gmail, Google Docs/Spreadsheets/Presentations/Forms, and for its transparent permissions management.
+
 #### Unorthodox Options
 - GitHub
 
@@ -36,3 +37,5 @@ I've seen a few services that do this, but I've been using Asana off and on sinc
 
 ### Repository Management
 I've used GitHub and GitLab. GitLab offers private repositories for free, while GitHub has a small monthly fee to do so. I tend to lean toward GitHub, just because all of the scientific repositories I care about seem to be hosted there.
+
+{% include signoff.md %}
