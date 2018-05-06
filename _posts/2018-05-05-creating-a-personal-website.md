@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: signed-off-post
 title: "Creating a Personal Website - Using GitHub Pages and Jekyll"
 date: 2018-05-05
 ---
