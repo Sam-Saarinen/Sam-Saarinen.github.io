@@ -35,10 +35,17 @@ For web app development, I use Rails 5.0. I've heard good things about Django, b
 I considered TensorFlow and PyTorch and chose to use PyTorch due to my perception that it was more succinct for the tasks I cared about, and its more flexible introspection capabilities.
 
 ### ToDo management and project planning
-I've seen a few services that do this, but I've been using Asana off and on since 2016. The key features for me are the ability to create nested lists (this is easy in Asana up to about 3 levels of depth, after which it becomes a pain), the ability to use comments to create "quest journal" updates, and the ability to organize tasks visually on boards. I thought I would use the scheduling and reminder capabilities more, but I find it's more robust to just do that through my calendar.
+I've seen a few services that do this; I used Asana off and on for about two years. The key features for me are the ability to create nested lists (this is easy in Asana up to about 3 levels of depth, after which it becomes a pain), the ability to use comments to create "quest journal" updates, and the ability to organize tasks visually on boards. I recently discovered [Notion](https://notion.so), which has slightly nicer nesting and organizational capabilities. Notion also makes it easy to integrate group notes, documents, and data into your team workflow.
+I thought I would use the scheduling and reminder capabilities more, but I find it's more robust to just do that through my calendar.
 
 ### Repository Management
 I've used GitHub and GitLab. GitLab offers private repositories for free, while GitHub has a small monthly fee to do so. I tend to lean toward GitHub, just because all of the scientific repositories I care about seem to be hosted there.
+
+### Chrome Extensions
+I use Google Chrome, and have found a number of tools that make web use better. One is called Tabbie, which allows you to save and reload collections of chrome tabs for later. This has reduced (although not eliminated) my tendancy to leave windows open with dozens of tabs for reference for each project. Another tool that I've found suprisingly useful is simply called "Video Speed Controller", which allows playback of any html5 videos (YouTube, Netflix, and almost everything else, at the moment) at arbitrary speed.  It also has keyboard shortcuts for speeding up and slowing down the video, which make it easier to scan to the most important parts in e.g. a lecture or research talk.
+
+### Paper/Citation Management
+I've used Zotero and Mendeley, and have a slight preference for Mendeley due to its group/shared folders and note-taking ability. Either tool is far better for me than using a physical filing system.
 
 I hope this was helpful!
 
