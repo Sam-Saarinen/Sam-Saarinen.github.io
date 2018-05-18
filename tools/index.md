@@ -47,6 +47,9 @@ I use Google Chrome, and have found a number of tools that make web use better. 
 ### Paper/Citation Management
 I've used Zotero and Mendeley, and have a slight preference for Mendeley due to its group/shared folders and note-taking ability. Either tool is far better for me than using a physical filing system.
 
+### Feed Management
+For the time being, I'm using Feedly to track RSS/Atom feeds. There may be better aggregation/digest tools, but I haven't spent a lot of time looking.
+
 I hope this was helpful!
 
 {% include signoff.md %}
