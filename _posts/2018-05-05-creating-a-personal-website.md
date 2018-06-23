@@ -1,5 +1,6 @@
 ---
 layout: post
+type: professional
 title: "Creating a Personal Website - Using GitHub Pages and Jekyll"
 date: 2018-05-05
 ---
