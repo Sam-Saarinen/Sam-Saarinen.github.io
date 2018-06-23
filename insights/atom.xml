@@ -14,13 +14,15 @@ layout: feed
 	</author>
 
 	{% for post in site.posts %}
-		<entry>
-			<title>{{ post.title }}</title>
-			<link href="http://sam-saarinen.github.io{{ post.url }}"/>
-			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://sam-saarinen.github.io{{ post.id }}</id>
-			<content type="html">{{ post.content | xml_escape }}</content>
-		</entry>
+		{% if post.type == 'professional' %}
+			<entry>
+				<title>{{ post.title }}</title>
+				<link href="http://sam-saarinen.github.io{{ post.url }}"/>
+				<updated>{{ post.date | date_to_xmlschema }}</updated>
+				<id>http://sam-saarinen.github.io{{ post.id }}</id>
+				<content type="html">{{ post.content | xml_escape }}</content>
+			</entry>
+		{% endif %}
 	{% endfor %}
 
 </feed>
