@@ -1,5 +1,6 @@
 ---
 layout: post
+type: professional
 title: "Making Machine Learning Review Easier with Music Videos"
 date: 2018-05-08
 ---
