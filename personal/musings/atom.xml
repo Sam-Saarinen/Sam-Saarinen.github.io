@@ -1,0 +1,28 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>(S)am's musings</title>
+	<link href="http://sam-saarinen.github.io/personal/musings/atom.xml" rel="self"/>
+	<link href="http://sam-saarinen.github.io/personal/musings"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://sam-saarinen.github.io/personal/musings</id>
+	<author>
+		<name>(S)am</name>
+	</author>
+
+	{% for post in site.posts %}
+		{% if post.type == 'personal' %}
+			<entry>
+				<title>{{ post.title }}</title>
+				<link href="http://sam-saarinen.github.io{{ post.url }}"/>
+				<updated>{{ post.date | date_to_xmlschema }}</updated>
+				<id>http://sam-saarinen.github.io{{ post.id }}</id>
+				<content type="html">{{ post.content | xml_escape }}</content>
+			</entry>
+		{% endif %}
+	{% endfor %}
+
+</feed>
