@@ -5,7 +5,7 @@ title: "What Crowdfunding Is and Isn't"
 date: 2018-07-10
 ---
 
-![Which Crowdfunding Platform and Why?]({{"/assets/CrowdFunding.png" | absolute_url }}){width="50%"}
+![Which Crowdfunding Platform and Why?]({{"/assets/CrowdFunding.png" | absolute_url }}){:width="50%"}
 
 A few years ago, I started an educational company with a friend I met while we were both volunteering at a high school for differentiated learners. We taught technology and design, ran community showcases, and studied and tested pedagogy intensely, if not rigorously. I went to grad school so that I could solve some difficult research problems related to improving education, but in the mean time, inventors renaissance, LLC has in turn started [ir GAMES](https://patreon.com/irGAMES). ir GAMES is an avenue for us to test out new interactive pedagogies and build a following, and it seems like everyone we talk to is really excited about what we've made. One of the most common questions we get is, "Do you have a Kickstarter or something?" Initially, we always responded with, "We're really trying to fund everything ourselves," but we've since realized that we were thinking about crowdfunding the wrong way. So without further ado, here's a handy guide to how to think about crowdfunding:
 
