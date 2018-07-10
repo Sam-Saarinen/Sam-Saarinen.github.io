@@ -17,6 +17,7 @@ A much better way to think of crowdfunding platforms is as a way of collecting p
 1. They don't have enough capital yet to manufacture with economies of scale.
 2. Getting capital requires purchases by individuals.
 3. Individuals are much less willing to buy the product at the higher price point.
+
 While venture capital can help to break through to larger scales of production, pre-orders can serve a similar function, providing the capital up front to manufacture a product with the benefits of scale. The difficult part is that unlike investment, where only a few people have to be convinced to believe in your business and/or product, pre-orders require orders of magnitude more people to be willing to take a chance on you, albeit with a smaller amount of cash.
 
 ## Crowdfunding **is NOT** free marketing
