@@ -1,0 +1,31 @@
+The overall flow of the story:
+- intro introduces Captain Epoch and the main objective (protect the timeline), sets tone
+- library establishes timeline, Epoch's powers, and the hub.
+- attack introduces the complication that the pc is separated from Epoch and has lost memory
+- workshop introduces da Vinci, notebooks, and concrete objective (find what Amnesia altered)
+- 
+- conclusion: if the timeline is restored and the character "saves" Epoch, the pc is offered the chance to become a full-time superhero
+
+Story Variables:
+epochName
+trust
+pcGender
+reluctance
+inCostume
+sexismAwareness
+daVinciRapport
+hasNotebook (da Vinci taught pc how to use notebook to travel through personal timeline)
+
+Stages/Challenges:
+- Meet Epoch, Jump through Time
+- Separated from Epoch, Convince Da Vinci to Help
+- Use notebook to overcome Amnesia
+- Undo the Corruption of the Timeline
+    - Passed up for Sistine Chapel (or in Milan, making the Gran Cavallo)
+    - In Imola (making the map, under "siege")
+    - In Florence 1504, vs. Michaelangelo, working on Mona Lisa, River Arno a failure.
+- Return Home
+
+During the Timeline Restoration stage, Captain Epoch has a timepiece (shows on screen) with a meter showing how close you are to the target departure date - how close you are to restoring the entire timeline. Right choices enable you to make it further. Being prevented from making it further is connected with some sort of hint?
+
+Build in the advanced time piece.

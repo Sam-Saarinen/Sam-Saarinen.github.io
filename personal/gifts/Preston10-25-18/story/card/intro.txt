@@ -1,0 +1,8 @@
+{{game.friendship < 1 -> You try to ignore it, but then you imagine the total dejection of your friend if you did, after he put so much effort into it. You also imagine that he's probably expecting you to comment on it later. You sigh and click through.}}
+
+On the webpage is the most peculiar image of a poorly drawn birthday cake. You contemplate the significance of this cake. Is it a metaphor for life? The result of a chef program to compute the meaning of life? Is your life, like so many candles, increasing the entropy of the universe more and more with every passing year?
+
+Then your dad calls to wish you a happy birthday.
+___
+"Thanks, Dad." -> card/cake -> game.dad=true
+"Do you know why (S)am sent me a cake?" -> card/cake -> game.dad=true; game.why=true

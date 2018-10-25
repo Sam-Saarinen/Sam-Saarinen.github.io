@@ -1,0 +1,32 @@
+{{game.introduced |= false;""}}
+{{game.dad && !game.why && !game.introduced -> You talk for a few more minutes with your Dad, and then he hangs up. You go back to contemplating the cake.
+
+Suddenly, the cake springs to life!}}
+{{game.why && !game.introduced -> "Maybe because it's your birthday?"
+
+"Not that kind of cake, Dad," you explain. "It's an electronic one."
+
+"An electronic cake?"
+
+Suddenly the cake springs to life! "Sorry, Dad, I've got to call you back! The cake just sprang to life!"
+
+"I'm not going anywhere!" he says. "If my son is going to battle a cake, I'm going to be a part of it!"}}
+{{
+if(!game.introduced){
+    game.introduced = true; game.cakeHealth=10; game.prestonStomach = 10; game.dadStomach=10;
+    game.numEaters = 1;
+    if(game.why){
+        game.numEaters += 1;
+    }
+}
+;""
+}}
+
+The cake is alive! It has {{game.cakeHealth}} slices left!
+
+Your stomach has {{game.prestonStomach}} room left.
+
+{{game.numEaters > 1 ->Your dad's stomach has {{game.dadStomach}} room left.}}
+___
+game.cakeHealth <= game.numEaters]]]Eat it! -> card/cake -> game.cakeHealth -= game.numEaters; game.prestonStomach -= 1; if(game.numEaters > 1){game.dadStomach-=1}
+game.cakeHealth > game.numEaters]]]Finish it! -> card/conclusion

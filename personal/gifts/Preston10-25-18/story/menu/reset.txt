@@ -1,0 +1,5 @@
+Would you like to reset all progress and restart from the beginning?
+
+___
+yes -> start -> game = new GameSave();loadChoice(game.currentChoiceName);
+no -> {{game.currentChoiceName}}
