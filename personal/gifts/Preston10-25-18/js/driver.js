@@ -295,9 +295,8 @@ function GameSave() {
     this.currentChoiceName = 'start';
     this.previousChoice = this.currentChoiceName;
     this.menu = [
-        new MenuItem('save', "../img/notebook.jpg", 'menu/notebook', false),
-        new MenuItem('stats', "../img/reset.png", 'menu/reset', true),
-        new MenuItem('about', "../img/about.png", 'menu/about', true)
+        new MenuItem('stats', "Sam-Saarinen.github.io/personal/gifts/Preston10-25-18/img/reset.png", 'menu/reset', true),
+        new MenuItem('about', "Sam-Saarinen.github.io/personal/gifts/Preston10-25-18/img/about.png", 'menu/about', true)
     ];
 }
 //Purely for convenience

@@ -1,4 +1,4 @@
-<img src="../img/cake.jpg" style="width:100%;">
+<img src="Sam-Saarinen.github.io/personal/gifts/Preston10-25-18/img/cake.jpg" style="width:100%;">
 
 <h1>A Mysterious Birthday gift...</h1>
 
