@@ -1,5 +1,0 @@
-[Page failed to load due to a bug.]
-
-We're sorry. Something went wrong. We were trying to take you to part of the story, but it broke. Our bad. Maybe you can try going back and choosing a different option.
-___
-try again->{{game.previousChoice}}
