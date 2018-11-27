@@ -1,0 +1,3 @@
+This interactive experience was created to guide the Food for Thought seminar on November 28, 2018.  This experience has been optimized using artificial intelligence for convenience and effectiveness.
+___
+go back -> {{game.returnPage}}

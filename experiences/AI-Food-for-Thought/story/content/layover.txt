@@ -1,0 +1,20 @@
+{{game.quadrant=1;
+if(game.excited){
+game.quadrant = game.quadrant+2;
+};
+if(game.economy){
+game.quadrant = game.quadrant+1;
+};
+;''}}
+Thank you for completing the readings so far. Please do not go on to the next page until completing the steps below:
+
+<ol>
+    <li>Enter the room.</li>
+    <li>Approach the food table. Show the table facilitator your identification code to receive your food.</li>
+    <li>Take your food to sit in quadrant {{game.quadrant}}.</li>
+    <li>Eat your food while discussing the readings and becoming acquainted with the others in your quadrant.</li>
+</ol>
+
+As a reminder, your quadrant and food assignments have been highly optimized by AI based on numerous trials of this discussion experience. Please accept all choices made by this system.
+___
+DO NOT CLICK THIS UNTIL THE ENTIRE GROUP DISCUSSION BEGINS. DO NOT READ THE FOLLOWING PAGE UNTIL THE ENTIRE GROUP DISCUSSION BEGINS. YOU WILL BE DIRECTED TO READ THE NEXT PAGE BY THE GROUP FACILITATOR.->content/debrief->setMenuItem('reset', true);

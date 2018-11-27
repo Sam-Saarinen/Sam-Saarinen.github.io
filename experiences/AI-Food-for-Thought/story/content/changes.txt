@@ -1,0 +1,25 @@
+<h1>AI will change everything</h1>
+This is no overstatement. {{game.excited->AI promises to automate things that used to require people so that we can focus on new things.}}{{!game.excited->AI promises to take more and more decisions away from people and into the realm of automation.}}
+
+<h2>Our Economy</h2>
+Unlike in past eras, we now live in a thought-driven economy. Where before human value was derived from physical labor over time, our highest paid jobs (scientists, engineers, doctors, lawyers, managers, etc.) all derive their value from knowledge and choices. For better or worse, machines have become a cheaper source of labor for most mechanical or factory-style tasks and will continue to become cheaper and cheaper relative to the cost of a human being's time.
+
+{{game.economy->
+The <strong>thought economy</strong> will be radically reshaped as AI grows in prevalence and performance. {{game.excited->Previously boring tasks, like doing paperwork, commuting, and cashiering will be automated away, freeing people to do more creative, fulfilling, and interpersonal work.}}{{!game.excited->Previously valuable jobs, such as office management, shipping and driving, and entry-level store or restaurant positions will become unobtainable by people, since AI can do those jobs scalably, reliably, and cheaply.}} The work that people engage in, and the value of human labor itself will be dramatically changed.
+}}
+
+<h2>Our Humanity</h2>
+It has been said that we are defined by our choices. (One recent attribution of this statement is to Albus Dumbledore.) But what are we defined by if most of our choices are made by someone else? Or by a machine? The human race as a whole will be making {{game.excited->different}}{{!game.excited->fewer}} choices moving forward, and living in a world where most choices are made for us will fundamentally change our human experience.
+
+{{!game.economy->
+Imagine that most of the decisions that you spend time on in your every day life are now made by an AI system: what you wear; what you eat; who you talk to; when you sleep; where you live. {{game.excited->Maybe these decisions appear like recommendations to you, but you're inclined to take them. }}What will you think about? {{!game.excited->What happens when you're forced to live with uncomfortable clothes, tasteless food (that's supposedly healthy), weak friends, and a boring lifestyle?}}
+}}
+
+<h2>Our Identity</h2>
+I'm particularly excited about the possibility that within our lifetimes, anyone, anywhere can learn anything, any time, easily, using systems that take advantage of data and AI to personalize your experience. But where does that leave us? In a world where anyone can be anything, what makes us different? If everyone can become a doctor, who decides who gets to be a doctor and who doesn't? What if everyone wants to be the same thing, and we end up not having enough plumbers? Right now, career choices and lifestyle choices are made based on early experiences, practical considerations, and social pressures/influences. What if an AI system could predict based on data what you would be best at, or what society will most need when you're grown? Can a machine define who you are?
+
+What would you like to read more about?
+___
+!game.economy]]]What might our future economy look like?->content/deeper->game.social=false
+game.economy]]]What might the future of education look like?->content/deeper->game.social=false
+How will AI change our social interactions?->content/deeper->game.social=true
