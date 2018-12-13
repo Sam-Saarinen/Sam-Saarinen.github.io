@@ -1,0 +1,10 @@
+Your personal holiday greeting is nearly complete! Please identify a personal hero of yours:
+___
+True]]]Barrack Obama -> content/adjective -> game.hero="Barrack Obama"; game.gender="he"
+Helen Keller -> content/adjective -> game.hero="Helen Keller"; game.gender="she"
+Grace Hopper -> content/adjective -> game.hero="Grace Hopper"; game.gender="she"
+Sarah Breedlove -> content/adjective -> game.hero="Sarah Breedlove"; game.gender="she"
+Michael Jordan -> content/adjective -> game.hero="Michael Jordan"; game.gender="he"
+Michael B. Jordan -> content/adjective -> game.hero="Michael B. Jordan"; game.gender="he"
+Michael I. Jordan -> content/adjective -> game.hero="Michael I. Jordan"; game.gender="he"
+True]]]None of the Above -> content/adjective -> game.hero="None of the Above"; game.gender="they"

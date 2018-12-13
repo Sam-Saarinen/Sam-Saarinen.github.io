@@ -1,0 +1,7 @@
+Thank you! Now please identify an item you always carry with you:
+___
+pen -> content/hero -> game.noun2="pen"
+pencil -> content/hero -> game.noun2="pencil"
+house key -> content/hero -> game.noun2="house key"
+boomerang -> content/hero -> game.noun2="boomerang"
+pet elephant -> content/hero -> game.noun2="pet elephant"

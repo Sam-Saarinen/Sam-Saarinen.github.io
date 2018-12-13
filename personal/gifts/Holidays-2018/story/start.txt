@@ -1,0 +1,8 @@
+<h1>Choose Your Own Holiday Greeting!</h1>
+
+<h2>by (S)am and Jiayin</h2>
+
+Holiday greetings have become trite and simple. Please join this crowdsourcing effort to generate more original holiday greetings for all to enjoy!
+{{game.story_index=Math.floor(Math.random() * 2);""}}
+___
+Okay... How bad can this be? -> content/holiday

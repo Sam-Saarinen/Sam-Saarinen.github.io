@@ -1,0 +1,6 @@
+Please select the holiday that best describes you:
+___
+Christmas -> content/noun1 -> game.holiday="Christmas"
+Hanukkah -> content/noun1 -> game.holiday="Hanukkah"
+Winter Solstice -> content/noun1 -> game.holiday="Winter Solstice"
+New Year's Day -> content/noun1 -> game.holiday="New Year's Day"

@@ -1,0 +1,10 @@
+<h1>The Great {{game.holiday}} Debacle</h1>
+
+(S)am and Jiayin tried to send you a {{game.holiday}} card, but unfortunately didn't have a {{game.noun2}} to power up their {{game.noun1}}. What a disaster! You {{game.adverb}} asked {{game.hero}} to intervene, but {{game.gender}} didn't have one either. You just wanted to read their holiday greeting, but a {{game.adjective}} problem stood in your way.
+
+That's when you remembered! You always keep a {{game.noun2}} in the glove compartment of <em>your</em> {{game.noun1}}! You rushed to find it, and delivered it just in time to to boot up the {{game.noun1}} and read your {{game.holiday}} message! The day was saved, and {{game.hero}} asked you for your personal autograph.
+
+___
+I get it. That's pretty funny. -> stories/debrief
+Happy {{game.holiday}} to you too! -> stories/debrief
+Seriously? You needed crowdsourcing for this? -> stories/debrief

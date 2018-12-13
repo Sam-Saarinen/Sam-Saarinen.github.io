@@ -1,0 +1,7 @@
+Great! Now please choose an adjective that describes something:
+___
+stupendous -> content/adverb -> game.adjective="stupendous"
+ridiculous -> content/adverb -> game.adjective="ridiculous"
+pungent -> content/adverb -> game.adjective="pungent"
+magnanimous -> content/adverb -> game.adjective="magnanimous"
+undefined -> content/adverb -> game.adjective="undefined"

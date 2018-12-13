@@ -1,0 +1,7 @@
+Thank you for choosing {{game.holiday}} and not {{game.holiday!="Christmas"->Thanksgiving}}{{game.holiday=="Christmas"->Halloween}}! Please select a noun that you identify with:
+___
+car -> content/noun2 -> game.noun1="car"
+robot -> content/noun2 -> game.noun1="robot"
+kitten -> content/noun2 -> game.noun1="kitten"
+smelly shoe -> content/noun2 -> game.noun1="smelly shoe"
+book -> content/noun2 -> game.noun1="book"

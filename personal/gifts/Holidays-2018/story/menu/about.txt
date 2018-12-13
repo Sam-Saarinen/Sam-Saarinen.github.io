@@ -1,0 +1,3 @@
+Happy Holidays! (S)am and Jiayin wanted to share some of their Christmas joy with you, so they worked together to make this interactive experience. Please enjoy and share your adventures with those you love.
+___
+go back -> {{game.returnPage}}

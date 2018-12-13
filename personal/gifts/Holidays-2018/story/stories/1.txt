@@ -1,0 +1,10 @@
+<h1>The Hilarious {{game.holiday}} {{game.noun1.capitalize()}}</h1>
+
+(S)am and Jiayin were just minding their own business when suddenly they ran into {{game.hero}}. Fortunately, {{game.gender}} indicated that {{game.gender}} had come to no harm, but that they needed to get on their way to see The Great {{game.holiday}} {{game.noun1.capitalize()}}!
+
+(S)am and Jiayin followed {{game.hero}} until {{game.gender}} reached a giant gate, which {{game.hero}} was allowed to pass through using {{game.gender=="he"->his}}{{game.gender=="she"->her}}{{game.gender=="they"->their}} {{game.noun2}}. They walked behind {{game.adverb}}, expecting to see something {{game.adjective}}, but instead, it was just a miniature fiberglass statue of a {{game.noun1}}, which wasn't really {{game.adjective}} at all!
+
+___
+I get it. That's pretty funny. -> stories/debrief
+Happy {{game.holiday}} to you too! -> stories/debrief
+Seriously? You needed crowdsourcing for this? -> stories/debrief

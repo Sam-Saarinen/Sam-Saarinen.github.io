@@ -1,0 +1,6 @@
+Thanks! Now please describe how you live:
+___
+freely -> stories/prepare -> game.adverb="freely"
+wonderfully -> stories/prepare -> game.adverb="wonderfully"
+wisely -> stories/prepare -> game.adverb="wisely"
+illegally -> stories/prepare -> game.adverb="illegally"

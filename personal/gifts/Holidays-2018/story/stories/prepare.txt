@@ -1,0 +1,3 @@
+Thank you for all that helpful data. Your customized greeting has now been contributed to the public database. You may review your submission here:
+___
+Click to View->stories/{{game.story_index}}
