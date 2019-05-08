@@ -1,9 +1,12 @@
 ---
-layout: default
-title: "(S)am's Tools"
+layout: post
+type: professional
+title: "Tools I Use"
+date: 2019-01-12
 ---
-# (S)am's Tools
-In the course of my work, I find myself frequently testing, adopting, and switching tools for tasks I do frequently. Although one can search for opinions about the best tool for a given task, sometimes it's not even clear what those task divisions should be. For my own organization (and hopefully the benefit of readers with similar problems), I've accumulated the tools that I use in my own workflow below. I expect to change this document as new tools come along, as my needs change, or as I have time to add more notes (especially about documentation and/or books). Last edit was May 5, 2018
+
+# Tools I Use
+In the course of my work, I find myself often testing, adopting, and switching tools for tasks I do frequently. Although one can search for opinions about the best tool for a given task, sometimes it's not even clear what those task divisions should be. For my own organization (and hopefully the benefit of readers with similar problems), I've accumulated the tools that I use in my own workflow below. I expect to change create follow-up poasts as new tools come along, as my needs change, or as I have time to add more notes (especially about documentation and/or books).
 
 ## Cloud Storage
 For backing up data, synchronizing across devices, and sharing with others/collaborating.
@@ -27,12 +30,12 @@ Here, I define office software as document editing, spreadsheet managment, and s
 ## General-Purpose Programming Language(s)
 Although I've become more of a polyglot with more education (and yet found more ways to use new paradigms in old languages), it's convenient to have a small set of languages that cover a large swath of use cases.
 
-For most purposes (especially computational experiments) I use Python 3 in the Jupyter Notebook environment (packaged with Anaconda). With Numpy, Matplotlib, and SciPy, I am able to write quickly experiments that also run sufficiently quickly. At other times in my life, my primary language has been Java, C++, or Mathematica. I have a soft spot for the richness of the debugging experience in Java using Eclipse, but I find my Python to be slightly less verbose, and a large number of open-source libraries are now built on the Python stack.
+For most purposes (especially computational experiments) I use Python 3 in the Jupyter Notebook environment (packaged with Anaconda). With Numpy, Matplotlib, and SciPy, I am able to quickly write experiments that also run sufficiently quickly. At other times in my life, my primary language has been Java, C++, or Mathematica. I have a soft spot for the richness of the debugging experience in Java using Eclipse, but I find my Python to be slightly less verbose, and a large number of open-source libraries are now built on the Python stack.
 
 For web app development, I use Rails 5.0. I've heard good things about Django, but I've had no need to switch. I've deployed two user-data-driven services using Rails.
 
 ## Deep Learning Library
-I considered TensorFlow and PyTorch and chose to use PyTorch due to my perception that it was more succinct for the tasks I cared about, and its more flexible introspection capabilities.
+I considered TensorFlow and PyTorch and chose to use PyTorch due to my perception that it was more succinct for the tasks I cared about, and for its more flexible introspection capabilities.
 
 ## ToDo management and project planning
 I've seen a few services that do this; I used Asana off and on for about two years. The key features for me are the ability to create nested lists (this is easy in Asana up to about 3 levels of depth, after which it becomes a pain), the ability to use comments to create "quest journal" updates, and the ability to organize tasks visually on boards. I recently discovered [Notion](https://notion.so), which has slightly nicer nesting and organizational capabilities. Notion also makes it easy to integrate group notes, documents, and data into your team workflow.
@@ -51,8 +54,9 @@ I've used Zotero and Mendeley, and have a slight preference for Mendeley due to 
 For the time being, I'm using Feedly to track RSS/Atom feeds. There may be better aggregation/digest tools, but I haven't spent a lot of time looking.
 
 ## Presentation Recording
-I recently learned that Microsoft PowerPoint allows you to record narration/timings and that you can save/export as an MP4 video. Although for general video processing needs I like Premiere (Adobe Creative Cloud) or OpenShot (a pretty good open source alternative), there is really no comparison when it comes to recording presentations - PowerPoint has easy-to-use graphics and animation capabilities and individual slides can be re-recorded without interrupting the total presentation. I plan to use this for all of my informational videos from now on that don't rely heavily on external footage.
+I recently learned that Microsoft PowerPoint allows you to record narration/timings and that you can save/export as an MP4 video. Although for general video processing needs I like Premiere (Adobe Creative Cloud) or OpenShot (a pretty good open source alternative), there is really no comparison when it comes to recording presentations - PowerPoint has easy-to-use graphics and animation capabilities and individual slides can be re-recorded without interrupting the total presentation. I plan to use this for all of my informational videos from now on that don't rely heavily on external footage. (If anyone is looking for a more general screencasting software package, OBS Studio has a free download that works quite well.)
 
 I hope this was helpful!
+
 
 {% include signoff.md %}
