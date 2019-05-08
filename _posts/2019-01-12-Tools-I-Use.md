@@ -5,7 +5,6 @@ title: "Tools I Use"
 date: 2019-01-12
 ---
 
-# Tools I Use
 In the course of my work, I find myself often testing, adopting, and switching tools for tasks I do frequently. Although one can search for opinions about the best tool for a given task, sometimes it's not even clear what those task divisions should be. For my own organization (and hopefully the benefit of readers with similar problems), I've accumulated the tools that I use in my own workflow below. I expect to change create follow-up poasts as new tools come along, as my needs change, or as I have time to add more notes (especially about documentation and/or books).
 
 ## Cloud Storage

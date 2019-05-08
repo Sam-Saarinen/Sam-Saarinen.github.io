@@ -6,7 +6,10 @@ title: "(S)am's Expertise"
 I'm an artificial intelligence researcher and entrepreneur whose primary goal is to provide quality education to all students worldwide. In addition to core technical competencies in AI and software, I've cultivated soft skills in leadership, client development, and communication.
 
 # AI Competencies
-I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The main thrust of my doctoral work is on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation.
+I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work is on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation.
+
+## Video Course
+I created the video course ["Hands-On Artificial Intelligence for Small Businesses"](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-small-businesses-video), published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
 
 ## Relevant Papers
 * SIGCSE 2019: ["Harnessing the Wisdom of the Classes: Classsourcing and Machine Learning for Assessment Instrument Generation"](/artifacts/papers/SIGCSE_2019.pdf), a conference paper about combining bandit processes, information theory, and crowdsourcing in order to quickly generate statistically validated assessments.
@@ -20,7 +23,7 @@ I also have a thorough background in mathematics and probabilistic analysis. I p
 * AAAI 2016: ["A Tool to Graphically Edit CP-Nets"](/artifacts/papers/AAAI_2016.pdf), a short conference paper on a tech demo for a web-based tool that allowed editing and analyzing an annotated directed-acyclic-graph structure called a CP-Net.
 * AAMAS 2015: ["Probabilistic Copeland Tournaments"](/artifacts/papers/AAMAS_2015.pdf), a short conference paper I contributed to dealing with the computational hardness of a particular probabilistic inference problem.
 * J. Phys. A 2015: ["Generating random walks and polygons
-with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3 space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research while I was 17-20.
+with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3 space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research started when I was 17 years old.
 
 # Software Competencies
 * Full-stack development using Ruby on Rails for two single-server projects.
@@ -31,13 +34,13 @@ with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal pa
 * Hobbyist game designer/developer.
 
 # Business Experience
-I've consulted on applications of AI for companies in Brazil, China, and the US. I've also managed an LLC, including finances and HR.
+I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and companies in the US. I also manage an LLC, including finances and HR.
 
-//# Leadership
+<!--# Leadership-->
 
 # Teaching
-* Guest Lecturer and helped design a Machine Learning course at Brown University.
-* 3 years teaching programming in a high school as a volunteer. (Several students passed collegiate-level final exams.)
+* Brown University: Co-designed and guest lectured a Machine Learning course.
+* The Learning Center (Public High School in Fayette County, Kentucky): 3 years teaching programming as a volunteer. (Several students passed collegiate-level final exams.)
 * Experience tutoring mathematics and programming since 2012.
 
 # Students/Mentees
