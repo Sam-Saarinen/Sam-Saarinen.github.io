@@ -3,6 +3,21 @@
 
 @import "{{ site.theme }}";
 
+header {
+    height:auto;
+}
+
+footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
 /*body {
     margin: 60px auto;
     width: 70%;
