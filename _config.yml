@@ -1,3 +1,5 @@
 name: (S)am
 markdown: kramdown
 permalink: /insights/:year/:month/:day/:title
+
+theme: jekyll-theme-cayman
