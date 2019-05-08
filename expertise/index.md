@@ -62,10 +62,10 @@ Graduate of the University of Kentucky 2013 - 2016
 * Graduated with Honors in 3 years with majors in Computer Science and Mathematics, and a minor in Physics.
 
 # Honors and Awards
-* NSF Graduate Research Fellowship Program | Honorable Mention 2016
-* Computing Research Association Outstanding Undergraduate Researcher | Finalist 2016
+* NSF Graduate Research Fellowship Program \| Honorable Mention 2016
+* Computing Research Association Outstanding Undergraduate Researcher \| Finalist 2016
 * Goldwater Scholar 2014
-* Golden Apple Award for Service in Fayette County Public Schools | Co-recipient 2014-2015
+* Golden Apple Award for Service in Fayette County Public Schools \| Co-recipient 2014-2015
 
 # Miscellaneous
 Leo el español mejor de lo que lo hablo.  
