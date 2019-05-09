@@ -14,5 +14,3 @@ Courses:
 
 Experiences:
 * November 28, 2018: [An interactive discussion of AI](/artifacts/AI-Food-for-Thought/) created for a guest appearance in a seminar series called "Food for Thought" (they have snacks and interesting multidisciplinary speakers).
-
-{% include signoff.md %}
