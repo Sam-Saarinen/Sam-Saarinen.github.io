@@ -2,7 +2,7 @@
 layout: post
 type: professional
 title: "How Your Business can Benefit from AI"
-date: 2019-01-12
+date: 2019-05-11
 ---
 
 ![Picture: Doctor at a Computer](/assets/chang-duong-1170439-unsplash.jpg)
