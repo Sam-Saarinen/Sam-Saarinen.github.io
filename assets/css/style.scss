@@ -14,6 +14,14 @@
     margin: 1em;
 }
 
+img + em {
+    /*Style Captioned images from markdown. img and em in a p tag*/
+    float: right;
+    min-width: 20%;
+    max-width: 100%;
+    margin: 1em;
+}
+
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
