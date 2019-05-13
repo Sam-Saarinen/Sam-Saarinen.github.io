@@ -6,7 +6,7 @@ date: 2019-01-12
 ---
 
 ![Picture: Doctor at a Computer](/assets/chang-duong-1170439-unsplash.jpg)
-* *
+*What can AI do for your business?*
 
 Artificial Intelligence (AI) has captured the public imagination, and it seems that every week there's a new stance on issues ranging from the regulation of autonomous vehicles to the privacy of users in an era of big data. But nearly all of these discussions are focused on the implications of new technologies and the consequences for big businesses. Almost no one is talking about the practical implications, here and now, for everyday companies and businesses and for their customers. That's what this article is for. By the end, you will understand the cost associated with using AI technologies (it's cheap), you will see three opportunities for innovation in your own business, and you'll be able to form realistic predictions of what specific AI techniques might do for your business.
 
@@ -55,11 +55,12 @@ Now what determines the cost of using AI? If you have a dedicated developer, the
 1. The innovation should be applied at a very large scale, or in a high-risk setting.
 1. You want the benefit of additional experience when identifying business opportunities that AI could create.
 1. Your task requires novel techniques or above-average performance.  
+
 In any of these settings, it may be worth hiring an expert. But how much should you pay them? Experts typically have high hourly rates, due to their advanced training, specialized experience, and relative scarcity. However, many experts are willing to contract for a nominal flat rate, plus a fraction of the value they produce (akin to royalties). Regardless of the option you choose, your estimate of created value should determine what level of expertise you are willing to pay for. For a mid-to-large company with a substantial online retail market, even a 1% increase in sales is likely well-worth the cost of an AI expert.
 
 AI produces the most value in situations where there is a lot of data available. That said, most of that value is untapped unless paired with human creativity and concern for clients. AI produces the most value when diligent businesses use AI as a tool to better serve and relate to their customers.
 
 ![Picture: Doctor and Patient](/assets/arvin-chingcuangco-1337417-unsplash.jpg)
-* *
+*AI produces value by improving your ability to relate to and serve your clients.*
 
 If you're interested in learning more about AI and how it can be used to benefit your business, check out my video course ["Hands-On Artificial Intelligence for Small Businesses"](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-small-businesses-video). In less than a weekend, you can develop the skills to use AI libraries (in Python) and apply them to data from your own business. Check it out, because you'll also learn how to appraise the offers of AI consultants, Machine Learning engineers, and Data Scientists.
