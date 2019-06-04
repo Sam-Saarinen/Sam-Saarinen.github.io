@@ -23,7 +23,7 @@ I also have a thorough background in mathematics and probabilistic analysis. I p
 * AAAI 2016: ["A Tool to Graphically Edit CP-Nets"](/artifacts/papers/AAAI_2016.pdf), a short conference paper on a tech demo for a web-based tool that allowed editing and analyzing an annotated directed-acyclic-graph structure called a CP-Net.
 * AAMAS 2015: ["Probabilistic Copeland Tournaments"](/artifacts/papers/AAMAS_2015.pdf), a short conference paper I contributed to dealing with the computational hardness of a particular probabilistic inference problem.
 * J. Phys. A 2015: ["Generating random walks and polygons
-with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3 space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research started when I was 17 years old.
+with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3-space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research started when I was 17 years old.
 
 # Software Competencies
 * Full-stack development using Ruby on Rails for two single-server projects.
