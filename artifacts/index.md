@@ -5,11 +5,16 @@ title: "Artifacts"
 # Content by (S)am
 This is a collection of artifacts and experiences (papers, videos, games, etc.) made available for your reference. This index will be simply that -- an index -- since longer posts about the content will be written under "insights".
 
+Books:  
+* November 27, 2019: [*Education: The Next Hundred Years*](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520) is a roadmap for transforming education using emerging pedagogical and computational technologies. It's also available on [Amazon for Kindle](https://www.amazon.com/dp/B081ZMRYJJ).
+
 Papers:
 * SIGCSE 2019: ["Harnessing the Wisdom of the Classes: Classsourcing and Machine Learning for Assessment Instrument Generation"](/artifacts/papers/SIGCSE_2019.pdf), a paper about combining bandit processes, information theory, and crowdsourcing in order to quickly generate statistically validated assessments.
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
 
 Courses:
+* October 21, 2019: ["Machine Learning Bootcamp for WHOI"](https://github.com/Sam-Saarinen/WHOI-ML) is a collection of notes and exercises used in a 3-day training for the Woods Hole Oceanographic Institution.
+* September 7, 2019: ["Introduction to Number Theory and Python"](https://github.com/Sam-Saarinen/WHOI-ML) is an accelerated introduction to computer science with a focus on applications in Number Theory. This course was first run in Fall of 2019.
 * May 1, 2019: ["Hands-On Artificial Intelligence for Small Businesses"](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-small-businesses-video) is a video course I created with Packt publishers to help small businesses apply readily available AI techniques to basic business problems.
 
 Experiences:
