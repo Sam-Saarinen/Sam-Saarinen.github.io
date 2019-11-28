@@ -5,6 +5,9 @@ title: "(S)am's Expertise"
 # Overview
 I'm an artificial intelligence researcher and entrepreneur whose primary goal is to provide quality education to all students worldwide. In addition to core technical competencies in AI and software, I've cultivated soft skills in leadership, client development, and communication.
 
+# Vision
+I wrote the book [*Education: The Next Hundred Years*](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520), available through [Barnes and Noble](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520) and as a [Kindle Book on Amazon](https://www.amazon.com/dp/B081ZMRYJJ). The book combines insights from my research, teaching, and consulting experience to provide a roadmap for transforming education over the next century using emerging pedagogical and computational technologies.
+
 # AI Competencies
 I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work is on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation.
 
@@ -16,7 +19,8 @@ I created the video course ["Hands-On Artificial Intelligence for Small Business
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
 
 ## Other Experience
-I interned as a Data Scientist at Udacity in 2017. My work there involved analysis of data from millions of students to provide better course recommendations.
+* At IM DATA 2019, I delivered an hour-long talk on applications of AI to education, and then moderated a panel discussion on a similar topic.
+* I interned as a Data Scientist at Udacity in 2017. My work there involved analysis of data from millions of students to provide better course recommendations.
 
 ## Math Expertise
 I also have a thorough background in mathematics and probabilistic analysis. I published a few papers as an undergraduate:
@@ -34,11 +38,13 @@ with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal pa
 * Hobbyist game designer/developer.
 
 # Business Experience
-I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and companies in the US. I also manage an LLC, including finances and HR.
+I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and various organizations in the US. I also manage an LLC, including finances and HR.
 
 <!--# Leadership-->
 
 # Teaching
+* Consultant: Ran a 3-day training boot camp for the Woods Hole Oceanographic Institution.
+* Online Courses: Ran an online course that served as a combined introduction to computer science and number theory.
 * Brown University: Co-designed and guest lectured a Machine Learning course.
 * The Learning Center (Public High School in Fayette County, Kentucky): 3 years teaching programming as a volunteer. (Several students passed collegiate-level final exams.)
 * Experience tutoring mathematics and programming since 2012.
@@ -49,8 +55,10 @@ Students or people I have mentored on significant projects are listed here. (H|U
 
 In no particular order:
 * Evan Cater (U) * - AI research and entrepreneurship. Received a Summer Research Scholarship to work on learning under uncertainty with me.
-* Madeline Griswold (U) * - AI research and mathematics. Presented a poster at the Brown CS Student Research Symposium.
+* Madeline Griswold (U) * - AI research, NLP, and mathematics. Presented a poster at the Brown CS Student Research Symposium.
 * Eric Choi (U) * - Full Stack Development and Research
+* Naveen Srinivasan (M) * - Theory of Reinforcement Learning. Working on a project involving planning with access to a state partition and local options.
+* Kevin Du (U) * - Machine Learning applications in adaptive assessment.
 * Fumi Honda (M) * - AI Research. Coauthor on accepted RLDM 2019 poster "Exploration under State Abstraction via Efficient Sampling and Action Reuse".
 * Alberta Devor (U) - (briefly) Research
 
