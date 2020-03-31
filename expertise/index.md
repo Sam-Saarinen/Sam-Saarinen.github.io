@@ -20,6 +20,7 @@ I created the video course ["Hands-On Artificial Intelligence for Small Business
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
 
 ## Other Experience
+* Reviewer for IJCAI-PRICAI 2020.
 * At IM DATA 2019, I delivered an hour-long talk on applications of AI to education, and then moderated a panel discussion on a similar topic.
 * I interned as a Data Scientist at Udacity in 2017. My work there involved analysis of data from millions of students to provide better course recommendations.
 
