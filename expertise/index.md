@@ -15,6 +15,7 @@ I have research experience in many flavors of Machine Learning, with a specializ
 I created the video course ["Hands-On Artificial Intelligence for Small Businesses"](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-small-businesses-video), published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
 
 ## Relevant Papers
+* LAK 2020: ["Applying Prerequisite Structure Inference to Adaptive Testing"](/artifacts/papers/LAK_2020.pdf), a conference paper about inferring prerequisite relationships between assessment items and leveraging those relationships for efficient adaptive testing.
 * SIGCSE 2019: ["Harnessing the Wisdom of the Classes: Classsourcing and Machine Learning for Assessment Instrument Generation"](/artifacts/papers/SIGCSE_2019.pdf), a conference paper about combining bandit processes, information theory, and crowdsourcing in order to quickly generate statistically validated assessments.
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
 
