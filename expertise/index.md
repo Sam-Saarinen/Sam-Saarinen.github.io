@@ -45,9 +45,9 @@ I've consulted on applications of AI for Speedio in Brazil, Special A Education 
 <!--# Leadership-->
 
 # Teaching
-* Consultant: Ran a 3-day training boot camp for the Woods Hole Oceanographic Institution.
+* Consultant: Ran a 3-day machine learning boot camp for the Woods Hole Oceanographic Institution.
 * Online Courses: Ran an online course that served as a combined introduction to computer science and number theory.
-* Brown University: Co-designed and guest lectured a Machine Learning course.
+* Brown University: Co-designed and guest lectured a Machine Learning course. Guest lectured in a Discrete Mathematics course.
 * The Learning Center (Public High School in Fayette County, Kentucky): 3 years teaching programming as a volunteer. (Several students passed collegiate-level final exams.)
 * Experience tutoring mathematics and programming since 2012.
 
