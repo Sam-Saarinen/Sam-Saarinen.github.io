@@ -55,14 +55,17 @@ I've consulted on applications of AI for Speedio in Brazil, Special A Education 
 Students or people I have mentored on significant projects are listed here. (H|U|M|D) indicates High School, Undergraduate, Masters, or Doctoral students.
 '*' indicates ongoing collaboration
 
-In no particular order:
-* Evan Cater (U) * - AI research and entrepreneurship. Received a Summer Research Scholarship to work on learning under uncertainty with me.
-* Madeline Griswold (U) * - AI research, NLP, and mathematics. Presented a poster at the Brown CS Student Research Symposium.
+In alphabetical order:
+* Evan Cater (U) * - AI research and entrepreneurship. Coauthor on our LAK 2020 paper.
 * Eric Choi (U) * - Full Stack Development and Research
-* Naveen Srinivasan (M) * - Theory of Reinforcement Learning. Working on a project involving planning with access to a state partition and local options.
-* Kevin Du (U) * - Machine Learning applications in adaptive assessment.
-* Fumi Honda (M) * - AI Research. Coauthor on accepted RLDM 2019 poster "Exploration under State Abstraction via Efficient Sampling and Action Reuse".
 * Alberta Devor (U) - (briefly) Research
+* Kevin Du (U) * - Machine Learning applications in adaptive assessment.
+* Madeline Griswold (U) - AI research, NLP, and mathematics. Presented a poster at the Brown CS Student Research Symposium.
+* Fumi Honda (M) * - AI Research. Coauthor on accepted RLDM 2019 poster "Exploration under State Abstraction via Efficient Sampling and Action Reuse".
+* Mingxuan Li (M) * - AI research in reinforcement learning and planning under some state abstractions. Theory of Reinforcement Learning.
+* Zhiyin Lin (H) * - Research in uncertainty modeling for Machine Learning models and medical decision-making.
+* Naveen Srinivasan (M) * - Theory of Reinforcement Learning. Working on a project involving planning with access to a state partition and local options.
+* Zora Zhang (H) - Research into explainable machine learning models.
 
 # Education
 Ph.D. Student at Brown University 2016 - present
