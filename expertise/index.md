@@ -32,6 +32,7 @@ I also have a thorough background in mathematics and probabilistic analysis. I p
 with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3-space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research started when I was 17 years old.
 
 # Software Competencies
+* Full-stack development using Angular, Ionic (UI framework), and Firebase (backend database, functions, and authentication) for three interconnected web apps/services.
 * Full-stack development using Ruby on Rails for two single-server projects.
 * Fluency in Python, with significant project experience in Java, Ruby, C++, Mathematica, Matlab, and JavaScript.
 * Professional experience with Anaconda (Python scientific computing collection), PyTorch (deep learning library), and implementations of a variety of deep learning and other machine learning techniques.
