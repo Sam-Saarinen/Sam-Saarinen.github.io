@@ -11,13 +11,13 @@ I wrote the book [*Education: The Next Hundred Years*](https://www.barnesandnobl
 # AI Competencies
 I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work is on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation.
 
-## Video Course
-I created the video course ["Hands-On Artificial Intelligence for Small Businesses"](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-small-businesses-video), published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
-
 ## Relevant Papers
 * LAK 2020: ["Applying Prerequisite Structure Inference to Adaptive Testing"](/artifacts/papers/LAK_2020.pdf), a conference paper about inferring prerequisite relationships between assessment items and leveraging those relationships for efficient adaptive testing.
 * SIGCSE 2019: ["Harnessing the Wisdom of the Classes: Classsourcing and Machine Learning for Assessment Instrument Generation"](/artifacts/papers/SIGCSE_2019.pdf), a conference paper about combining bandit processes, information theory, and crowdsourcing in order to quickly generate statistically validated assessments.
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
+
+## Video Course
+I created the video course ["Hands-On Artificial Intelligence for Small Businesses"](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-small-businesses-video), published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
 
 ## Other Experience
 * Reviewer for IJCAI-PRICAI 2020.
@@ -27,11 +27,12 @@ I created the video course ["Hands-On Artificial Intelligence for Small Business
 ## Math Expertise
 I also have a thorough background in mathematics and probabilistic analysis. I published a few papers as an undergraduate:
 * AAAI 2016: ["A Tool to Graphically Edit CP-Nets"](/artifacts/papers/AAAI_2016.pdf), a short conference paper on a tech demo for a web-based tool that allowed editing and analyzing an annotated directed-acyclic-graph structure called a CP-Net.
-* AAMAS 2015: ["Probabilistic Copeland Tournaments"](/artifacts/papers/AAMAS_2015.pdf), a short conference paper I contributed to dealing with the computational hardness of a particular probabilistic inference problem.
+* AAMAS 2015: ["Probabilistic Copeland Tournaments"](/artifacts/papers/AAMAS_2015.pdf), a short conference paper I contributed to that deals with the computational hardness of a particular probabilistic inference problem.
 * J. Phys. A 2015: ["Generating random walks and polygons
 with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3-space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research started when I was 17 years old.
 
 # Software Competencies
+* Full-stack development using Angular, Ionic (UI framework), and Firebase (backend database, functions, and authentication) for three interconnected web apps/services.
 * Full-stack development using Ruby on Rails for two single-server projects.
 * Fluency in Python, with significant project experience in Java, Ruby, C++, Mathematica, Matlab, and JavaScript.
 * Professional experience with Anaconda (Python scientific computing collection), PyTorch (deep learning library), and implementations of a variety of deep learning and other machine learning techniques.
@@ -45,24 +46,28 @@ I've consulted on applications of AI for Speedio in Brazil, Special A Education 
 <!--# Leadership-->
 
 # Teaching
-* Consultant: Ran a 3-day training boot camp for the Woods Hole Oceanographic Institution.
+* Freelance Teaching: Private math and programming instruction for a variety of courses, including "Intro to Programming through Games", "Algorithms and Competitive Programming", and "Intro to Machine Learning and Research".
+* Consultant: Ran a 3-day machine learning boot camp for the Woods Hole Oceanographic Institution.
 * Online Courses: Ran an online course that served as a combined introduction to computer science and number theory.
-* Brown University: Co-designed and guest lectured a Machine Learning course.
+* Brown University: Co-designed and guest lectured a Machine Learning course. Guest lectured in a Discrete Mathematics course.
 * The Learning Center (Public High School in Fayette County, Kentucky): 3 years teaching programming as a volunteer. (Several students passed collegiate-level final exams.)
-* Experience tutoring mathematics and programming since 2012.
+* Experience tutoring mathematics and programming since 2012. Also, private coaching on reading, creating writing, public speaking, and teaching.
 
 # Students/Mentees
 Students or people I have mentored on significant projects are listed here. (H|U|M|D) indicates High School, Undergraduate, Masters, or Doctoral students.
 '*' indicates ongoing collaboration
 
-In no particular order:
-* Evan Cater (U) * - AI research and entrepreneurship. Received a Summer Research Scholarship to work on learning under uncertainty with me.
-* Madeline Griswold (U) * - AI research, NLP, and mathematics. Presented a poster at the Brown CS Student Research Symposium.
-* Eric Choi (U) * - Full Stack Development and Research
-* Naveen Srinivasan (M) * - Theory of Reinforcement Learning. Working on a project involving planning with access to a state partition and local options.
-* Kevin Du (U) * - Machine Learning applications in adaptive assessment.
-* Fumi Honda (M) * - AI Research. Coauthor on accepted RLDM 2019 poster "Exploration under State Abstraction via Efficient Sampling and Action Reuse".
+In alphabetical order:
+* Evan Cater (U) - AI research and entrepreneurship. Coauthor on our LAK 2020 paper.
+* Eric Choi (U) - Full Stack Development and Research
 * Alberta Devor (U) - (briefly) Research
+* Kevin Du (U) - Machine Learning applications in adaptive assessment.
+* Madeline Griswold (U) - AI research, NLP, and mathematics. Presented a poster at the Brown CS Student Research Symposium.
+* Fumi Honda (M) - AI Research. Coauthor on accepted RLDM 2019 poster "Exploration under State Abstraction via Efficient Sampling and Action Reuse".
+* Mingxuan Li (M) * - AI research in reinforcement learning and planning under some state abstractions. Theory of Reinforcement Learning.
+* Zhiyin Lin (H) * - Research in uncertainty modeling for Machine Learning models and medical decision-making. Coauthor on a recent workshop submission.
+* Naveen Srinivasan (M) - Theory of Reinforcement Learning. Working on a project involving planning with access to a state partition and local options.
+* Zora Zhang (H) - Research into explainable machine learning models.
 
 # Education
 Ph.D. Student at Brown University 2016 - present

@@ -9,6 +9,7 @@ Books:
 * November 27, 2019: [*Education: The Next Hundred Years*](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520) is a roadmap for transforming education using emerging pedagogical and computational technologies. It's also available on [Amazon for Kindle](https://www.amazon.com/dp/B081ZMRYJJ).
 
 Papers:
+* LAK 2020: ["Applying Prerequisite Structure Inference to Adaptive Testing"](/artifacts/papers/LAK_2020.pdf), a paper about inferring prerequisite relationships between assessment items and leveraging those relationships for efficient adaptive testing.
 * SIGCSE 2019: ["Harnessing the Wisdom of the Classes: Classsourcing and Machine Learning for Assessment Instrument Generation"](/artifacts/papers/SIGCSE_2019.pdf), a paper about combining bandit processes, information theory, and crowdsourcing in order to quickly generate statistically validated assessments.
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
 
