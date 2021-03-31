@@ -11,6 +11,9 @@ I wrote the book [*Education: The Next Hundred Years*](https://www.barnesandnobl
 # AI Competencies
 I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work is on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation.
 
+## Dissertation
+My dissertation, [*Query Strategies for Directed Graphical Models and their Application to Adaptive Testing*](https://www.overleaf.com/read/cntdgjvmngmv), brings together machine learning, computer science theory, and education research to develop scalable and effective methods for generating assessments for new topics.  This is an important step forward in education research, as it allows us to easily create (and then use) rigorous measures of learning to evaluate educational interventions, pedagogy, and policy. My thesis defense is also available on [YouTube](https://www.youtube.com/watch?v=itGg9PVduWQ).
+
 ## Relevant Papers
 * LAK 2020: ["Applying Prerequisite Structure Inference to Adaptive Testing"](/artifacts/papers/LAK_2020.pdf), a conference paper about inferring prerequisite relationships between assessment items and leveraging those relationships for efficient adaptive testing.
 * SIGCSE 2019: ["Harnessing the Wisdom of the Classes: Classsourcing and Machine Learning for Assessment Instrument Generation"](/artifacts/papers/SIGCSE_2019.pdf), a conference paper about combining bandit processes, information theory, and crowdsourcing in order to quickly generate statistically validated assessments.
@@ -70,7 +73,7 @@ In alphabetical order:
 * Zora Zhang (H) - Research into explainable machine learning models.
 
 # Education
-Ph.D. Student at Brown University 2016 - present
+Ph.D. Student at Brown University 2016 - 2021
 * Directs the Personalized Education @ Scale lab
 
 Graduate of the University of Kentucky 2013 - 2016
