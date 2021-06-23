@@ -9,7 +9,7 @@ I'm an artificial intelligence researcher and entrepreneur whose primary goal is
 I wrote the book [*Education: The Next Hundred Years*](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520), available through [Barnes and Noble](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520) and as a [Kindle Book on Amazon](https://www.amazon.com/dp/B081ZMRYJJ). The book combines insights from my research, teaching, and consulting experience to provide a roadmap for transforming education over the next century using emerging pedagogical and computational technologies.
 
 # AI Competencies
-I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work is on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation.
+I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work is on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation. Some of the problems I've developed models for include adaptive assessment, spaced repetition, and content evaluation and recommendation.
 
 ## Dissertation
 My dissertation, [*Query Strategies for Directed Graphical Models and their Application to Adaptive Testing*](https://www.overleaf.com/read/cntdgjvmngmv), brings together machine learning, computer science theory, and education research to develop scalable and effective methods for generating assessments for new topics.  This is an important step forward in education research, as it allows us to easily create (and then use) rigorous measures of learning to evaluate educational interventions, pedagogy, and policy. My thesis defense is also available on [YouTube](https://www.youtube.com/watch?v=itGg9PVduWQ).
@@ -20,7 +20,7 @@ My dissertation, [*Query Strategies for Directed Graphical Models and their Appl
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
 
 ## Video Course
-I created the video course ["Hands-On Artificial Intelligence for Small Businesses"](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-small-businesses-video), published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
+I created the video course "Hands-On Artificial Intelligence for Small Businesses", published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
 
 ## Other Experience
 * Reviewer for IJCAI-PRICAI 2020.
@@ -35,8 +35,8 @@ I also have a thorough background in mathematics and probabilistic analysis. I p
 with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3-space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research started when I was 17 years old.
 
 # Software Competencies
-* Full-stack development using Angular, Ionic (UI framework), and Firebase (backend database, functions, and authentication) for three interconnected web apps/services.
-* Full-stack development using Ruby on Rails for two single-server projects.
+* Full-stack development using React, Ionic (UI framework), and Firebase (backend database, functions, and authentication) for three interconnected web apps/services using TypeScript.
+* Full-stack development using Ruby on Rails for two single-server projects. Additional experience with Django and Angular.
 * Fluency in Python, with significant project experience in Java, Ruby, C++, Mathematica, Matlab, and JavaScript.
 * Professional experience with Anaconda (Python scientific computing collection), PyTorch (deep learning library), and implementations of a variety of deep learning and other machine learning techniques.
 * Experience in Lisp, Visual Basic for Applications, and Racket.
@@ -67,14 +67,14 @@ In alphabetical order:
 * Kevin Du (U) - Machine Learning applications in adaptive assessment.
 * Madeline Griswold (U) - AI research, NLP, and mathematics. Presented a poster at the Brown CS Student Research Symposium.
 * Fumi Honda (M) - AI Research. Coauthor on accepted RLDM 2019 poster "Exploration under State Abstraction via Efficient Sampling and Action Reuse".
-* Mingxuan Li (M) * - AI research in reinforcement learning and planning under some state abstractions. Theory of Reinforcement Learning.
-* Zhiyin Lin (H) * - Research in uncertainty modeling for Machine Learning models and medical decision-making. Coauthor on a recent workshop submission.
-* Naveen Srinivasan (M) - Theory of Reinforcement Learning. Working on a project involving planning with access to a state partition and local options.
+* Mingxuan Li (M) - AI research in reinforcement learning and planning under some state abstractions. Theory of Reinforcement Learning.
+* Zhiyin Lin (H) * - Research in uncertainty modeling for Machine Learning models and medical decision-making. Coauthor on a AAAI workshop paper.
+* Naveen Srinivasan (M) - Theory of Reinforcement Learning. Worked on a project involving planning with access to a state partition and local options.
 * Zora Zhang (H) - Research into explainable machine learning models.
 
 # Education
 Ph.D. Student at Brown University 2016 - 2021
-* Directs the Personalized Education @ Scale lab
+* Directed the Personalized Education @ Scale lab
 
 Graduate of the University of Kentucky 2013 - 2016
 * Graduated with Honors in 3 years with majors in Computer Science and Mathematics, and a minor in Physics.
