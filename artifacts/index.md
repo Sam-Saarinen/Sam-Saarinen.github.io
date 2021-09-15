@@ -8,6 +8,9 @@ This is a collection of artifacts and experiences (papers, videos, games, etc.) 
 Books:  
 * November 27, 2019: [*Education: The Next Hundred Years*](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520) is a roadmap for transforming education using emerging pedagogical and computational technologies. It's also available on [Amazon for Kindle](https://www.amazon.com/dp/B081ZMRYJJ).
 
+Dissertation:
+* May 2021: [*Query Strategies for Directed Graphical Models and their Application to Adaptive Testing*](https://www.overleaf.com/read/cntdgjvmngmv), describes how to bring together machine learning, computer science theory, and education research to develop scalable and effective methods for generating assessments for new topics.  This is an important step forward in education research, as it allows us to easily create (and then use) rigorous measures of learning to evaluate educational interventions, pedagogy, and policy. The thesis defense is also available on [YouTube](https://www.youtube.com/watch?v=itGg9PVduWQ).
+
 Papers:
 * LAK 2020: ["Applying Prerequisite Structure Inference to Adaptive Testing"](/artifacts/papers/LAK_2020.pdf), a paper about inferring prerequisite relationships between assessment items and leveraging those relationships for efficient adaptive testing.
 * SIGCSE 2019: ["Harnessing the Wisdom of the Classes: Classsourcing and Machine Learning for Assessment Instrument Generation"](/artifacts/papers/SIGCSE_2019.pdf), a paper about combining bandit processes, information theory, and crowdsourcing in order to quickly generate statistically validated assessments.
