@@ -62,14 +62,19 @@ Students or people I have mentored on significant projects are listed here. (H|U
 
 In alphabetical order:
 * Evan Cater (U) - AI research and entrepreneurship. Coauthor on our LAK 2020 paper.
-* Eric Choi (U) - Full Stack Development and Research
-* Alberta Devor (U) - (briefly) Research
+* Eric Choi (U) - Full Stack Development and Research.
+* Alberta Devor (U) - (briefly) Research.
 * Kevin Du (U) - Machine Learning applications in adaptive assessment.
 * Madeline Griswold (U) - AI research, NLP, and mathematics. Presented a poster at the Brown CS Student Research Symposium.
 * Fumi Honda (M) - AI Research. Coauthor on accepted RLDM 2019 poster "Exploration under State Abstraction via Efficient Sampling and Action Reuse".
-* Mingxuan Li (M) - AI research in reinforcement learning and planning under some state abstractions. Theory of Reinforcement Learning.
+* Mingxuan Li (M) -Theory of Reinforcement Learning and research in planning under some state abstractions.
+* Steven Li (H) - Game Design and Software Engineering. Created a custom game engine in Python and novel level-design formats.
 * Zhiyin Lin (H) * - Research in uncertainty modeling for Machine Learning models and medical decision-making. Coauthor on a AAAI workshop paper.
+* Alvin Miao (H) * - Machine Learning. Working on a project involving brain-computer interfaces.
 * Naveen Srinivasan (M) - Theory of Reinforcement Learning. Worked on a project involving planning with access to a state partition and local options.
+* Yiming Song (H) * - Applied Machine Learning. Advising on a project involving instrument segmentation from a mixed audio recording.
+* Ryan Wong (H) - Applied Machine Learning. Combined a variety of techniques to predict needed repairs for bike sharing in New York. Culminated in a submission to a student research competition.
+* Jack Xie (H) - Supervised Learning on Images. Built a model for visually detecting sign language.
 * Zora Zhang (H) - Research into explainable machine learning models.
 
 # Education
