@@ -23,7 +23,7 @@ My dissertation, [*Query Strategies for Directed Graphical Models and their Appl
 I created the video course "Hands-On Artificial Intelligence for Small Businesses", published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
 
 ## Other Experience
-* Reviewer for IJCAI-PRICAI 2020.
+* Reviewer for AAAI 2022, IJCAI-PRICAI 2020.
 * At IM DATA 2019, I delivered an hour-long talk on applications of AI to education, and then moderated a panel discussion on a similar topic.
 * I interned as a Data Scientist at Udacity in 2017. My work there involved analysis of data from millions of students to provide better course recommendations.
 
