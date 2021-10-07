@@ -44,7 +44,7 @@ with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal pa
 * Hobbyist game designer/developer.
 
 # Business Experience
-I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and various organizations in the US. I also manage an LLC, including finances and HR.
+I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and various organizations in the US. I also manage an LLC, including finances and HR. I'm a board member of the [Franklin Center For Innovation (FCFI)](https://franklincenterforinnovation.com/directory).
 
 <!--# Leadership-->
 
@@ -54,6 +54,7 @@ I've consulted on applications of AI for Speedio in Brazil, Special A Education 
 * Online Courses: Ran an online course that served as a combined introduction to computer science and number theory.
 * Brown University: Co-designed and guest lectured a Machine Learning course. Guest lectured in a Discrete Mathematics course.
 * The Learning Center (Public High School in Fayette County, Kentucky): 3 years teaching programming as a volunteer. (Several students passed collegiate-level final exams.)
+* Education Design: Co-creator of [Minds Across Time](https://braincrateclub.com/shop/ols/products/minds-across-time-crate), an educational trading card game aligned with more than 40 middle school educational standards in Kentucky.
 * Experience tutoring mathematics and programming since 2012. Also, private coaching on reading, creating writing, public speaking, and teaching.
 
 # Students/Mentees
