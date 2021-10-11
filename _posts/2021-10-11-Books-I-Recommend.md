@@ -1,7 +1,7 @@
 ---
 layout: post
 type: professional
-title: "Books I Recommend"
+title: "[List] Books I Recommend"
 date: 2021-10-11
 ---
 
