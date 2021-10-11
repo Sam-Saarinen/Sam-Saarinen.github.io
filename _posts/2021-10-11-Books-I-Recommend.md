@@ -14,10 +14,10 @@ Why do I recommend the #1 bestseller of all time? Outside of the possibility of 
 
 [^GoldenRule]: As with just about any statement about the Bible, this claim tends to attract opposition and qualification. For readers interested in a broader historical survey of reciprocation in ethical maxims, there are many indices available upon a quick search for "Golden Rule".
 
-### Harry Potter and the Methods of Rationality by Eliezer Yudkowsky
+### *Harry Potter and the Methods of Rationality* by Eliezer Yudkowsky
 Bear with me, here. Imagine an exploration of a soft-fantasy universe by a cold-minded rationalist that serves as an object lesson in empiricism, cognitive bias, and human nature. Further imagine that this work contains well-written characters that grow over time, have understandable weaknesses, and reason authentically through differences in opinion. Finally, imagine that this 1800-page work is a fan-fiction based on the wildly popular Harry Potter series, and effectively leverages the source material to tell an entirely novel story. This is [Harry Potter and the Methods of Rationality](http://www.hpmor.com/). Although this book requires a fair amount of investment and cultural context to fully appreciate, I consider this book universally recommended reading.
 
-### The Evolution of Everything by Matt Ridley
+### *The Evolution of Everything* by Matt Ridley
 *The Evolution of Everything* attempts to apply the principles of evolution by natural selection to draw conclusions in a broad array of disciplines and on a broad set of ideas. As an example, the information present in a given piece of technology can be copied and reproduced with modification. Whether due to market forces or natural causes, only some instances of technology survive to inspire imitation, leading to better-adapted design over time. The oceans themselves drive innovation in boat-making.
 
 Although I think some of the claims of the book may be overreaching (or even logical non sequitors), where else can you find specific predictions for education, technology, economics, eugenics, personality, and the internet all in one place? A book that I value for its provocative and thoughtful speculation.
