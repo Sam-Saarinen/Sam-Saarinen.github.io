@@ -21,3 +21,5 @@ Bear with me, here. Imagine an exploration of a soft-fantasy universe by a cold-
 *The Evolution of Everything* attempts to apply the principles of evolution by natural selection to draw conclusions in a broad array of disciplines and on a broad set of ideas. As an example, the information present in a given piece of technology can be copied and reproduced with modification. Whether due to market forces or natural causes, only some instances of technology survive to inspire imitation, leading to better-adapted design over time. The oceans themselves drive innovation in boat-making.
 
 Although I think some of the claims of the book may be overreaching (or even logical non sequitors), where else can you find specific predictions for education, technology, economics, eugenics, personality, and the internet all in one place? A book that I value for its provocative and thoughtful speculation.
+
+---
