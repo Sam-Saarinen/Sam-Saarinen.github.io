@@ -79,11 +79,11 @@ In alphabetical order:
 * Zora Zhang (H) - Research into explainable machine learning models.
 
 # Education
-Ph.D. Student at Brown University 2016 - 2021
+Ph.D. in Computer Science from Brown University 2016 - 2021
 * Directed the Personalized Education @ Scale lab.
 * Served as the department Faculty-Graduate Liaison (FGL) 2019-2021.
 
-Graduate of the University of Kentucky 2013 - 2016
+B.Sc. from the University of Kentucky 2013 - 2016
 * Graduated with Honors in 3 years with majors in Computer Science and Mathematics, and a minor in Physics.
 
 # Honors and Awards
