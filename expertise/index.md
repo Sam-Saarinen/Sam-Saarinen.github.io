@@ -32,7 +32,7 @@ I also have a thorough background in mathematics and probabilistic analysis. I p
 * AAAI 2016: ["A Tool to Graphically Edit CP-Nets"](/artifacts/papers/AAAI_2016.pdf), a short conference paper on a tech demo for a web-based tool that allowed editing and analyzing an annotated directed-acyclic-graph structure called a CP-Net.
 * AAMAS 2015: ["Probabilistic Copeland Tournaments"](/artifacts/papers/AAMAS_2015.pdf), a short conference paper I contributed to that deals with the computational hardness of a particular probabilistic inference problem.
 * J. Phys. A 2015: ["Generating random walks and polygons
-with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3-space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research started when I was 17 years old.
+with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3-space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research, started when I was 17 years old.
 
 # Software Competencies
 * Full-stack development using React, Ionic (UI framework), and Firebase (backend database, functions, and authentication) for three interconnected web apps/services using TypeScript.
@@ -55,7 +55,7 @@ I've consulted on applications of AI for Speedio in Brazil, Special A Education 
 * Brown University: Co-designed and guest lectured a Machine Learning course. Guest lectured in a Discrete Mathematics course.
 * The Learning Center (Public High School in Fayette County, Kentucky): 3 years teaching programming as a volunteer. (Several students passed collegiate-level final exams.)
 * Education Design: Co-creator of [Minds Across Time](https://braincrateclub.com/shop/ols/products/minds-across-time-crate), an educational trading card game aligned with more than 40 middle school educational standards in Kentucky.
-* Experience tutoring mathematics and programming since 2012. Also, private coaching on reading, creating writing, public speaking, and teaching.
+* Experience tutoring mathematics and programming since 2012. Also, private coach for reading, creative writing, scientific writing, public speaking, and teaching.
 
 # Students/Mentees
 Students or people I have mentored on significant projects are listed here. (H|U|M|D) indicates High School, Undergraduate, Masters, or Doctoral students.
@@ -91,6 +91,7 @@ Graduate of the University of Kentucky 2013 - 2016
 * Computing Research Association Outstanding Undergraduate Researcher \| Finalist 2016
 * Goldwater Scholar 2014
 * Golden Apple Award for Service in Fayette County Public Schools \| Co-recipient 2014-2015
+* Eagle Scout - Boy Scouts of America \| Rank Earned 2013
 
 # Miscellaneous
 Leo el español mejor de lo que lo hablo.  
