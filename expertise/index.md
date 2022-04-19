@@ -23,6 +23,7 @@ My dissertation, [*Query Strategies for Directed Graphical Models and their Appl
 I created the video course "Hands-On Artificial Intelligence for Small Businesses", published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
 
 ## Other Experience
+* Interviewed by CEST (Centro de Estudos Sociedade e Tecnologia) about [The Future of AI in Education](https://www.youtube.com/watch?v=Fg0eu_SNlCU).
 * Invited speaker at the [_1st Conference in the Middle East on AI in Higher Education_](https://youtu.be/K2Ct4GqTSFk?t=3702), speaking on "AI and Data Privacy in Higher Education".
 * Reviewer for AAAI 2022, IJCAI-PRICAI 2020.
 * At IM DATA 2019, I delivered an hour-long talk on applications of AI to education, and then moderated a panel discussion on a similar topic.
