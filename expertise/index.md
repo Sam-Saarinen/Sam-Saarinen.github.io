@@ -8,6 +8,14 @@ I'm an artificial intelligence researcher and entrepreneur whose primary goal is
 # Vision
 I wrote the book [*Education: The Next Hundred Years*](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520), available through [Barnes and Noble](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520) and as a [Kindle Book on Amazon](https://www.amazon.com/dp/B081ZMRYJJ). The book combines insights from my research, teaching, and consulting experience to provide a roadmap for transforming education over the next century using emerging pedagogical and computational technologies.
 
+# Company
+I founded [Edapt Technologies](https://edapt.tech), which incorporated in November 2021. Within 5 months, we developed a financial literacy assessment suite to help schools in Rhode Island meet a newly legislated graduation requirement, and we became the official state-recommended measure of proficiency. We are now working with multiple national organizations to deliver and improve financial literacy education at scale. Our efforts have been recognized by multiple non-profits and by the state treasurer.
+
+<img src="/assets/FinLitRIAward.jpg" alt="FinLitRI.org Trophy" width="150px"/>
+
+## Other Business Experience
+I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and various organizations in the US. I'm a board member of the [Franklin Center For Innovation (FCFI)](https://franklincenterforinnovation.com/directory).
+
 # AI Competencies
 I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work was on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation. Some of the problems I've developed models for include adaptive assessment, spaced repetition, and content evaluation and recommendation.
 
@@ -23,8 +31,8 @@ My dissertation, [*Query Strategies for Directed Graphical Models and their Appl
 I created the video course "Hands-On Artificial Intelligence for Small Businesses", published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
 
 ## Other Experience
-* Interviewed by CEST (Centro de Estudos Sociedade e Tecnologia) about [The Future of AI in Education](https://www.youtube.com/watch?v=Fg0eu_SNlCU).
-* Invited speaker at the [_1st Conference in the Middle East on AI in Higher Education_](https://youtu.be/K2Ct4GqTSFk?t=3702), speaking on "AI and Data Privacy in Higher Education".
+* Interviewed by CEST (Centro de Estudos Sociedade e Tecnologia) about [The Future of AI in Education](https://www.youtube.com/watch?v=Fg0eu_SNlCU) in 2022.
+* Invited speaker at the [_1st Conference in the Middle East on AI in Higher Education_](https://youtu.be/K2Ct4GqTSFk?t=3702), speaking on "AI and Data Privacy in Higher Education" in late 2021.
 * Reviewer for AAAI 2022, IJCAI-PRICAI 2020.
 * At IM DATA 2019, I delivered an hour-long talk on applications of AI to education, and then moderated a panel discussion on a similar topic.
 * I interned as a Data Scientist at Udacity in 2017. My work there involved analysis of data from millions of students to provide better course recommendations.
@@ -44,9 +52,6 @@ with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal pa
 * Experience in Lisp, Visual Basic for Applications, and Racket.
 * Knowledge of design patterns, software architecture design principles, and repository management using git.
 * Hobbyist game designer/developer.
-
-# Business Experience
-I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and various organizations in the US. I also manage an LLC, including finances and HR. I'm a board member of the [Franklin Center For Innovation (FCFI)](https://franklincenterforinnovation.com/directory).
 
 <!--# Leadership-->
 
@@ -72,12 +77,12 @@ In alphabetical order:
 * Fumi Honda (M) - AI Research. Coauthor on accepted RLDM 2019 poster "Exploration under State Abstraction via Efficient Sampling and Action Reuse".
 * Mingxuan Li (M) -Theory of Reinforcement Learning and research in planning under some state abstractions.
 * Steven Li (H) - Game Design and Software Engineering. Created a custom game engine in Python and novel level-design formats.
-* Zhiyin Lin (H) * - Research in uncertainty modeling for Machine Learning models and medical decision-making. Coauthor on a AAAI workshop paper.
+* Zhiyin Lin (H) - Research in uncertainty modeling for Machine Learning models and medical decision-making. Coauthor on a AAAI workshop paper.
 * Alvin Miao (H) * - Machine Learning. Working on a project involving brain-computer interfaces.
 * Naveen Srinivasan (M) - Theory of Reinforcement Learning. Worked on a project involving planning with access to a state partition and local options.
-* Yiming Song (H) * - Applied Machine Learning. Advising on a project involving instrument segmentation from a mixed audio recording.
+* Yiming Song (H) - Applied Machine Learning. Advised on a project involving instrument segmentation from a mixed audio recording.
 * Ryan Wong (H) - Applied Machine Learning. Combined a variety of techniques to predict needed repairs for bike sharing in New York. Culminated in a submission to a student research competition.
-* Jack Xie (H) - Supervised Learning on Images. Built a model for visually detecting sign language.
+* Jack Xie (H) - Supervised Learning on images. Unsupervised learning for linguistics. Built a model for visually detecting sign language.
 * Zora Zhang (H) - Research into explainable machine learning models.
 
 # Education
@@ -98,4 +103,4 @@ B.Sc. from the University of Kentucky 2013 - 2016
 # Miscellaneous
 Leo el español mejor de lo que lo hablo.  
 我正在学习一些中文。  
-Travelled to six countries (so far).
+Traveled to six countries (so far).
