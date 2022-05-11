@@ -11,7 +11,7 @@ I wrote the book [*Education: The Next Hundred Years*](https://www.barnesandnobl
 # Company
 I founded [Edapt Technologies](https://edapt.tech), which incorporated in November 2021. Within 5 months, we developed a financial literacy assessment suite to help schools in Rhode Island meet a newly legislated graduation requirement, and we became the official state-recommended measure of proficiency. We are now working with multiple national organizations to deliver and improve financial literacy education at scale. Our efforts have been recognized by multiple non-profits and by the state treasurer.
 
-<img src="/assets/FinLitRIAward.jpg" alt="FinLitRI.org Trophy" width="150px"/>
+<img class="right-image" src="/assets/FinLitRIAward.jpg" alt="FinLitRI.org Trophy" width="150px"/>
 
 ## Other Business Experience
 I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and various organizations in the US. I'm a board member of the [Franklin Center For Innovation (FCFI)](https://franklincenterforinnovation.com/directory).
