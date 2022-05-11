@@ -8,10 +8,15 @@
 }
 
 .right-image {
-    float: right;
     min-width: 20%;
     max-width: 100%;
     margin: 1em;
+}
+
+@media (min-width:300px) {
+    .right-image {
+        float: right;
+    }
 }
 
 img + em {
