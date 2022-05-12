@@ -11,16 +11,16 @@ I wrote the book [*Education: The Next Hundred Years*](https://www.barnesandnobl
 # Company
 I founded [Edapt Technologies](https://edapt.tech), which incorporated in November 2021. Within 5 months, we developed a financial literacy assessment suite to help schools in Rhode Island meet a newly legislated graduation requirement, and we became the official state-recommended measure of proficiency. We are now working with multiple national organizations to deliver and improve financial literacy education at scale. Our efforts have been recognized by multiple non-profits and by the state treasurer.
 
-<img class="right-image" src="/assets/FinLitRIAward.jpg" alt="FinLitRI.org Trophy" width="150px"/>
+<img class="right-image portrait-round-corners" src="/assets/FinLitRIAward.jpg" alt="FinLitRI.org Trophy" width="150px"/>
 
 ## Other Business Experience
-I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and various organizations in the US. I'm a board member of the [Franklin Center For Innovation (FCFI)](https://franklincenterforinnovation.com/directory).
+I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and several organizations in the US. I'm a board member of the [Franklin Center For Innovation (FCFI)](https://franklincenterforinnovation.com/directory).
 
 # AI Competencies
 I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work was on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation. Some of the problems I've developed models for include adaptive assessment, spaced repetition, and content evaluation and recommendation.
 
 ## Dissertation
-My dissertation, [*Query Strategies for Directed Graphical Models and their Application to Adaptive Testing*](https://www.overleaf.com/read/cntdgjvmngmv), brings together machine learning, computer science theory, and education research to develop scalable and effective methods for generating assessments for new topics.  This is an important step forward in education research, as it allows us to easily create (and then use) rigorous measures of learning to evaluate educational interventions, pedagogy, and policy. My thesis defense is also available on [YouTube](https://www.youtube.com/watch?v=itGg9PVduWQ).
+My dissertation, [*Query Strategies for Directed Graphical Models and their Application to Adaptive Testing*](https://www.overleaf.com/read/cntdgjvmngmv), brings together machine learning, computer science theory, and education research to develop scalable and effective methods for generating assessments for new topics.  This is an important step forward in education research, as it allows us to easily create and, consequently, use rigorous measures of learning to evaluate educational interventions, pedagogy, and policy. My thesis defense is also available on [YouTube](https://www.youtube.com/watch?v=itGg9PVduWQ).
 
 ## Relevant Papers
 * LAK 2020: ["Applying Prerequisite Structure Inference to Adaptive Testing"](/artifacts/papers/LAK_2020.pdf), a conference paper about inferring prerequisite relationships between assessment items and leveraging those relationships for efficient adaptive testing.
@@ -34,11 +34,11 @@ I created the video course "Hands-On Artificial Intelligence for Small Businesse
 * Interviewed by CEST (Centro de Estudos Sociedade e Tecnologia) about [The Future of AI in Education](https://www.youtube.com/watch?v=Fg0eu_SNlCU) in 2022.
 * Invited speaker at the [_1st Conference in the Middle East on AI in Higher Education_](https://youtu.be/K2Ct4GqTSFk?t=3702), speaking on "AI and Data Privacy in Higher Education" in late 2021.
 * Reviewer for AAAI 2022, IJCAI-PRICAI 2020.
-* At IM DATA 2019, I delivered an hour-long talk on applications of AI to education, and then moderated a panel discussion on a similar topic.
-* I interned as a Data Scientist at Udacity in 2017. My work there involved analysis of data from millions of students to provide better course recommendations.
+* Invited to deliver an hour-long talk at IM DATA 2019 on applications of AI to education, and then moderate a panel discussion on a similar topic.
+* Interned as a Data Scientist at Udacity in 2017. My work there involved analysis of data from millions of students to provide better course recommendations.
 
 ## Math Expertise
-I also have a thorough background in mathematics and probabilistic analysis. I published a few papers as an undergraduate:
+I also have a thorough background in mathematics and probabilistic analysis. I published these papers as an undergraduate:
 * AAAI 2016: ["A Tool to Graphically Edit CP-Nets"](/artifacts/papers/AAAI_2016.pdf), a short conference paper on a tech demo for a web-based tool that allowed editing and analyzing an annotated directed-acyclic-graph structure called a CP-Net.
 * AAMAS 2015: ["Probabilistic Copeland Tournaments"](/artifacts/papers/AAMAS_2015.pdf), a short conference paper I contributed to that deals with the computational hardness of a particular probabilistic inference problem.
 * J. Phys. A 2015: ["Generating random walks and polygons
@@ -94,6 +94,7 @@ B.Sc. from the University of Kentucky 2013 - 2016
 * Graduated with Honors in 3 years with majors in Computer Science and Mathematics, and a minor in Physics.
 
 # Honors and Awards
+* CFA Society Providence/FPA-RI Financial Literacy Coalition Leadership Award \| 2022
 * NSF Graduate Research Fellowship Program \| Honorable Mention 2016
 * Computing Research Association Outstanding Undergraduate Researcher \| Finalist 2016
 * Goldwater Scholar 2014

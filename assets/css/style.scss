@@ -11,6 +11,14 @@
     border-radius: 20%;
 }
 
+.portrait-round-corners {
+    border-radius: 20% / 13.85%;
+}
+
+.landscape-round-corners {
+    border-radius: 13.85% / 20%;
+}
+
 .right-image {
     min-width: 20%;
     max-width: 100%;
