@@ -2,7 +2,7 @@
 layout: post
 type: professional
 title: "[List] Books I Recommend"
-date: 2021-10-11
+date: 2022-05-18
 ---
 
 This is a page (that will be updated regularly) of books that I recommend reading. Although expanding population, increasing literacy, improving ease of communication, and benefit of history would seem to cause (by simple probabilities) most of the best books of all time to have been written fairly recently, you will also find a few classics (of various ages) here.
@@ -14,8 +14,11 @@ Why do I recommend the #1 bestseller of all time? Outside of the possibility of 
 
 [^GoldenRule]: As with just about any statement about the Bible, this claim tends to attract opposition and qualification. For readers interested in a broader historical survey of reciprocation in ethical maxims, there are many indices available upon a quick search for "Golden Rule".
 
-### *Les Misérables*
+### *Les Misérables* by Victor Hugo
 How do I describe Victor Hugo's masterwork? Intricate, authentic, and emotional. I first encountered the story of Les Misérables through the award-winning musical, but catchy musical motifs struggle to capture the rich capacity of the book. Although Hugo's observations on justice and government are anchored in his time, his portrayal of the diversity of human nature and the interwoven nature of society are timeless. One of my favorite moments is when Gavroche, a street urchin, witnesses (from concealment) Montparnasse, a young criminal, who attempts to mug Jean Valjean, an escaped and reformed criminal who appears to be a member of the gentry. Valjean overpowers Montparnasse, lectures him, and then gives him money freely. Gavroche steals the money from Montparnasse and leaves it for the nearby Father Mabeuf, an elderly man struggling to care for a friend of his. Mabeuf, an honest man, turns the unidentified money over to the police. In dire financial straits, he eventually dies in the midst of a populist revolution. In the end, none of the characters get what they wanted, nor what they deserved.
+
+### *The Three Body Problem*, *The Dark Forest*, and *Death's End* by Cixin Liu (Chinese: 刘慈欣 Liú Cíxīn)
+Cixin Liu's award-winning and widely translated science fiction trilogy stands apart for its broad scope, examination of the intersection of technology and society in the context of a vast universe, and poetic reflection on human rationality in the face of irrational tragedy. I don't agree (or at least, don't want to agree) with the series' representation of the strength of collective human envy as a self-destructive force, but I deeply appreciate the way that the events of the books are informed by (and in some cases directly driven by) the Chinese Cultural Revolution and the Cold War. The books present some provocative ideas around the Fermi Paradox (and Drake's Equation), the serendipity of technology, and the fate of the universe.
 
 ### *Harry Potter and the Methods of Rationality* by Eliezer Yudkowsky
 Bear with me, here. Imagine an exploration of a soft-fantasy universe by a cold-minded rationalist that serves as an object lesson in empiricism, cognitive bias, and human nature. Further imagine that this work contains well-written characters that grow over time, have understandable weaknesses, and reason authentically through differences in opinion. Finally, imagine that this 1800-page work is a fan-fiction based on the wildly popular Harry Potter series, and effectively leverages the source material to tell an entirely novel story. This is [Harry Potter and the Methods of Rationality](http://www.hpmor.com/). Although this book requires a fair amount of investment and cultural context to fully appreciate, I consider this book universally recommended reading.
