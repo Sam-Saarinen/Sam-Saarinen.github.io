@@ -19,8 +19,7 @@ Papers:
 
 Courses:
 * October 21, 2019: ["Machine Learning Bootcamp for WHOI"](https://github.com/Sam-Saarinen/WHOI-ML) is a collection of notes and exercises used in a 3-day training for the Woods Hole Oceanographic Institution.
-* September 7, 2019: ["Introduction to Number Theory and Python"](https://github.com/Sam-Saarinen/WHOI-ML) is an accelerated introduction to computer science with a focus on applications in Number Theory. This course was first run in Fall of 2019.
-* May 1, 2019: ["Hands-On Artificial Intelligence for Small Businesses"](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-small-businesses-video) is a video course I created with Packt publishers to help small businesses apply readily available AI techniques to basic business problems.
+* September 7, 2019: ["Introduction to Number Theory and Python"](https://github.com/Sam-Saarinen/nuthepy) is an accelerated introduction to computer science with a focus on applications in Number Theory. This course was first run in Fall of 2019.
 
 Experiences:
 * November 28, 2018: [An interactive discussion of AI](/artifacts/AI-Food-for-Thought/) created for a guest appearance in a seminar series called "Food for Thought" (they have snacks and interesting multidisciplinary speakers).
