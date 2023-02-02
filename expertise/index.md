@@ -16,6 +16,8 @@ I founded [Edapt Technologies](https://edapt.tech), which incorporated in Novemb
 ## Other Business Experience
 I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and several organizations in the US. I'm a board member of the [Franklin Center For Innovation (FCFI)](https://franklincenterforinnovation.com/directory).
 
+I also had the privilege of participating in the 2022 cohort of the Techstars Alabama EnergyTech Accelerator as the founding CTO of PowerTechs Incorporated, a company applying assessment technologies to professional training in the energy industry. Despite substantive differences in culture, language, and professional background, (and an initial 12-hour timezone difference,) my cofounder and I together received mentorship from a diverse group across the energy and entrepreneurship communities, found a market niche, and successfully landed our first pilot customer. (I also [rapped about EnergyTech startups to a packed theater](https://youtu.be/l4lVC8TD9ms?t=4610)!) After the better part of a year, I made the difficult decision to transition out of the company in order to refocus on high-leverage opportunities for technological innovation in key educational processes.
+
 # AI Competencies
 I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work was on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation. Some of the problems I've developed models for include adaptive assessment, spaced repetition, and content evaluation and recommendation.
 
