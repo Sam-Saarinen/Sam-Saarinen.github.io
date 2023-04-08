@@ -44,7 +44,7 @@ After the Techstars program concluded \[this section is an edit to the original 
 	- VS Code Extensions: Auto Rename Tag, ESLint, GitLens, Prettier, Visual Studio IntelliCode, HTML CSS Support
 11. Install git (https://git-scm.com/) and Github CLI
 12. Install node (https://nodejs.org/en/download/), then Firebase and Ionic (`npm install -g @ionic/cli`, `npm install -g firebase-tools`).
-13. Install Steam (and Epic Games, and Origin Launcher)
+13. Install Steam (and Epic Games, and EA Launcher)
 14. Install John's Background Switcher
 15. Install Zoom
 16. Install Razer Kiyo Webcam Software (Razer Synapse)
