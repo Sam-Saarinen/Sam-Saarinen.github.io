@@ -15,6 +15,7 @@ Smil explores (through detailed historical anecdote) our tendency to overestimat
 - Even incredible advances in computational technology and AI don't trivialize problems bound by physical constraints - e.g. the search for better refrigerants, where nearly all feasible molecules have been explored, or in-air transportation speeds, where speed and efficiency are directly at odds.
 - Real tradeoffs between different forms of wellbeing among different people have to be navigated, and industrial-scale mass-application of technologies often have unintended consequences, sometimes both long-lasting and undetectable for a very long time.
 - We tend to overstate the significance of individual discoveries.
+
 I don't agree with all of the conclusions Smil draws, but I find his sober (and counter-culturally concrete) evaluation of technological progress to be quite helpful in rebalancing my expectations for the future.
 
 ---
