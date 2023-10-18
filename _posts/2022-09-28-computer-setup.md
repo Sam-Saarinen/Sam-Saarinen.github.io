@@ -33,12 +33,15 @@ After the Techstars program concluded \[this section is an edit to the original 
 2. Install Windows on the new hard drive
 3. Install Brave (Download using Edge)
 4. Use NVIDIA GeForce Experience to install GPU Drivers
+	- Install CUDA using the [NVIDIA Installer](https://developer.nvidia.com/cuda-toolkit)
+	- Install CuDNN using the [NVIDA Local Install Link](https://developer.nvidia.com/cudnn) or (or Python library nvidia-cudnn ?)
 5. Windows App Armoury Crate (automatically prompted) to control case lighting.
 6. Download Mouse Software
 	- Setup mouse profile (shortcuts for copy, paste, list active programs, backspace, enter)
 7. Add Google Drive Sync
 8. Add Dropbox Sync
 9. Install Anaconda
+	- Use `conda` to uninstall and reinstall pytorch (with CUDA support) if necessary.
 10. Install VS Code
 	- Set default tab spacing to 2 and line wrap to true.
 	- VS Code Extensions: Auto Rename Tag, ESLint, GitLens, Prettier, Visual Studio IntelliCode, HTML CSS Support
