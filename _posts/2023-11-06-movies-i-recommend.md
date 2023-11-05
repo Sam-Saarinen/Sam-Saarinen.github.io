@@ -1,11 +1,11 @@
 ---
 layout: post
 type: professional
-title: "[List] Movies I Recommend"
+title: "[List] Movies (and Series) I Recommend"
 date: 2023-11-06
 ---
 
-It's difficult to compare movies across genres, and there are movies that have relevance to the history of the medium that just aren't as enjoyable to watch now. With that said, these are some movies that I would generally recommend to people _today_.
+It's difficult to compare movies across genres, and there are movies that have relevance to the history of the medium that just aren't as enjoyable to watch now. With that said, these are some movies that I would generally recommend to people _today_. I've also mixed in a TV series or two.
 
 ### The Incredibles (2004)
 If forced to pick a favorite, this might be it. An allegory for middle-class America wrapped up in comic-book superheroism. An object lesson in irony. And so many quoteable one-liners! The only thing I might fault is that the animation will continue to age as computers and art advance.
@@ -17,6 +17,9 @@ If I wrote down everything I loved about this movie (and its quite good sequel),
 - In each of their ways, the Parr children struggle with being exceptional. Dash and Syndrome share almost identical lines - "When everyone's special, then no one will be."
 - Bomb Voyage!
 - The Underminer! "I am always beneath you, but nothing is beneath me!"
+
+### Avatar: The Last Airbender (2005-2008)
+The series definitely has its rough spots (a few noticeable animation loops and they were still finding their rhythm during the first 2-3 episodes), but this is hands-down my favorite series, and as valuable as many of the movies on this list.
 
 ### Gandhi (1982)
 
@@ -31,6 +34,7 @@ If I wrote down everything I loved about this movie (and its quite good sequel),
 ### 2001: A Space Oddyssey (1968)
 
 ### The Black Panther (2018)
+"You are a good man. And it is hard for a good man to be king."
 
 ### The Black Phone (2021)
 
