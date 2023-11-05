@@ -22,4 +22,6 @@ Games are distinct from other media, and unique in their ability to communicate 
 
 ### Liar's Poker
 
+### Ninja
+
 ---
