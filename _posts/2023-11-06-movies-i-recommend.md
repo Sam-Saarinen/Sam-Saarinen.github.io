@@ -48,7 +48,7 @@ This movie is odd. I did not like it the first time I saw it, and I didn't like 
 ### The Black Panther (2018)
 "You are a good man. And it is hard for a good man to be king."
 
-This movie has such a well-constructed plot, literary irony, and social commentary. I love the "ancestor plane" sequences; to me, those are the heart of the movie. Who are you (where do you come from), and what will you do with power?
+This movie has such a well-constructed plot, literary irony, and social commentary. I love the ancestral plane sequences; to me, those are the heart of the movie. Who are you (where do you come from), and what will you do with power?
 
 ### The Black Phone (2021)
 I don't watch many horror movies (although Alien is something of a classic), and I rarely watch R-rated movies, but I made an exception for my sister's birthday. This movie feels really well constructed; from a story-telling point of view, the twists and resolution feel both surprising and earned. I also like that the supernatural elements of the movie can be interpreted literally or experientially, but they're an essential part of the storytelling. It's rare to see that kind of ambiguity pulled off.
