@@ -19,12 +19,12 @@ If I wrote down everything I loved about this movie (and its quite good sequel),
 - The Underminer! "I am always beneath you, but nothing is beneath me!"
 
 ### Avatar: The Last Airbender (2005-2008)
-The series definitely has its rough spots (a few noticeable animation loops and they were still finding their rhythm during the first 2-3 episodes), but this is hands-down my favorite series, and as valuable as many of the movies on this list. Phenomenal writing, and many things to think about. What's the real cost of war? Are leaders called to sacrifice their own morality for the good of the people (a classic deontological/consequentialist conundrum)? Is there anywhere where cabbages will be safe?
+The series definitely has its rough spots (a few noticeable animation loops and they were still finding their rhythm during the first 2-3 episodes), but this is hands-down my favorite series, and as valuable as any of the movies on this list. Phenomenal writing, and many things to think about. What's the real cost of war? Are leaders called to sacrifice their own morality for the good of the people (a classic deontological/consequentialist conundrum)? Is there anywhere where cabbages will be safe?
 
 ### Gandhi (1982)
 This movie gives me hope. This movie is how I first learned about the historical person of Gandhi, and had an enormous effect on how I conceive of my life's work and value. "There are many causes for which I would be willing to die, but there is no cause for which I would be willing to kill."
 
-Is it possible to change the world without acts of violence? I sure hope so. Maybe this wouldn't be possible without the free press, global trade, and a kind of moral authority. Maybe it's not the way to solve challenges like global terrorism. But I'm good to keep trying to figure out how it can be.
+Is it possible to change the world without acts of violence? I sure hope so. Maybe this wouldn't be possible without the free press, global trade, and a kind of public moral authority. Maybe it's not the way to solve challenges like global terrorism. But I'm good to keep trying to figure out how it can be.
 
 ### Spider-Man: Across the Spider-verse (2023)
 Although the prequel, Into the Spider-verse, was excellent, this movie was phenomenal. Miles Morales comes into his own (it's a coming of age story), fights his fate (it's a sci-fi story), fights his past (it's a super-hero story), and fights his friends (it's a good story). Animation is used expressively in ways that photorealistic CGI has not been (I liked the augmented-reality-esque animation in Miss Marvel for similar reasons), and I love the way color and texture are used in the scenes with Gwen's father. The movie is well-situated in its own cultural context, acknowledging the myriad of Spider-Man media that came before while also reacting against it. Even though there's clearly going to be a third movie in the series, this movie feels like a complete arc in its own right, as Miles decides for himself who he's going to be.
@@ -37,12 +37,12 @@ With that said, there are still all manner of problems with the movie, mostly in
 ### The Dark Knight (2008)
 Can a hero sacrifice someone else for the greater good?
 
-### Next (2007)
-This wouldn't have made my list of recommendations right after I watched it, but when I'm still thinking about it occasionally a year later, I think it has earned it. I'm a sucker for time travel (which is a great literary tool for exploring themes of regret, fate, mortality, and choice, but is easy to botch).
+### Groundhog Day (1993)
+I'm a sucker for time travel (which is a great literary tool for exploring themes of regret, fate, mortality, and choice, but it's easy to botch). Groundhog Day is a delightful mix of surprising applications of an unwanted superpower, low-brow slapstick, and profound examination of the human condition. Probably my favorite dialogue is when Rita says, "I could never love someone like you. You only love yourself." And Phil replies, "That's not true. I don't even like myself."
 
-I think I recommend this movie because it raises some implications (can time-travel solve NP-hard problems?) and uses some creative cinematography. If I didn't have this on the list, I would probably include Groundhog Day (1993) or Tenet (2020).
+In the time-travel vein, I also like Next (2007), because it raises some implications (can time-travel solve NP-hard problems?) and uses some creative cinematography. If I didn't have either of those on the list, I would probably include Tenet (2020).
 
-### 2001: A Space Oddyssey (1968)
+### 2001: A Space Odyssey (1968)
 This movie is odd. I did not like it the first time I saw it, and I didn't like it the second time I saw it. The third time I saw it (somewhat older, and having heard some commentaries), I started to develop an appreciation for it as a work of art. I wouldn't call this "casual viewing", but I do recommend it to anyone who's looking for a take on what drives growth of consciousness. My current take is that the movie's answer is "contemplation of the unknown", although I think "mutual battles for survival" is probably equally defensible; I just don't want it to be true.
 
 ### The Black Panther (2018)
