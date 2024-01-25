@@ -31,4 +31,7 @@ Why was there such an asymmetry between the Spanish conquistadors and the Aztec 
 
 Although I think some of the claims of the book may be overreaching (or even logical non sequitors), where else can you find specific predictions for education, technology, economics, eugenics, personality, and the internet all in one place? A book that I value for its provocative and thoughtful speculation.
 
+## Specific Topics
+See my list of [Books on Doing Good](https://sam-saarinen.github.io/insights/2023/06/06/Books-on-Doing-Good) for recommendations with a practical angle.
+
 ---
