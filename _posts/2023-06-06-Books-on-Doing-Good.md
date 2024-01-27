@@ -4,7 +4,7 @@ type: professional
 title: "[List] Books on Doing Good"
 date: 2023-06-06
 ---
-Last Updated: 2024-01-25
+Last Updated: 2024-01-27
 
 This is a page (that will be updated regularly) of books that I've read (and at least partially recommend) on how to do good in the world. While there may be some books that stray into the philosophical and ethical, most of them will be concerned more with the "how" than the "why". Most of the books on list list I can't recommend in my general reading list as they are audience/intent specific, but for me, reading them has been an essential part of my work.
 
@@ -44,6 +44,15 @@ Eric posits that every viable business is based on at least two premises ("hypot
 One of the most valuable parts of the book was Eric's elaboration on effective metrics for testing growth hypotheses. He identifies three kinds of business-driven growth: sticky, where users accumulate because they stay a long time, and where cohort-based retention/churn metrics are the most meaningful; viral, where the product itself drives engagement of new users, and where the "infection rate" is the key thing to measure; and paid, where revenue is spent directly on acquiring new customers, and where the cost of acquiring a customer is the key metric. The sticky/viral/paid ontology is artificial and imperfect --- most businesses are composites --- but the question of whether growth is being primarily driven by current users, the product, or revenue is very helpful in identifying which growth metrics should be prioritized.
 
 For those new to Lean methods (or those with only secondhand exposure) - the illustrative analogies to other business types will also be very helpful. It is easy for individuals to feel they are being productive when they are engaging in their (individually) highest-value activity. But this leads to unseen or unowned waste (e.g. unusable inventory, engineering of products no one will buy). It's critical to reorient teams around organizational success metrics that prioritize total system performance.
+
+### *The Goal* by Eliyahu M. Goldratt
+The Goal is a business fable that focuses on the application of lean processes to modern manufacturing. After reading the Lean Startup, this (and the included article at the end, "Standing on the Shoulders of Giants") gave me a much deeper understanding of the principles motivating lean system design. Where before, Kanban-based agile task planning (controlling the amount of "inventory" at any stage of completion) was incomprehensible to me, I now have a lot of clarity around when it is and isn't beneficial and what problem it's trying to solve.
+
+Some of the big ideas of the book are that the thing that matters (the goal) should be defined at the whole system level, and often requires sacrificing the "efficiency" of system subparts. This is very counterintuitive to people whose view is on an individual component of the system (say a component, machine, worker, member, or employee). In fact, overproduction of non-rate-limiting parts (or completion of unnecessary tasks) is not just a form of waste, but often counterproductive (backlog build-up and resource activation slow down production along the critical path). The book explores a number of concepts and techniques that are abstract enough to be applied to a wide variety of operational tasks. Another major counterintuitive insight is that optimizing for throughput, or flow (minimizing total per-task production time) is generally much better for a business' bottom line than focusing on operational cost savings.
+
+When I think about how these lessons apply to education, I think there is a deep perspective shift that could unlock significant gains, but the lessons are difficult to apply as the relative complexity and ambiguity are much higher than in traditional manufacturing. To start with, what if the goal were to maximize throughput (say, end-to-end how quickly students mastered their defined curriculum) rather than to minimize operating costs (maximize learning per dollar spent)? This would be a major cultural shift for US Public Education and would require better ways of certifying educational completion (e.g. a more socially-promoted GED). 
+
+Maybe at some point I'll update this post or my book with some follow-up thoughts on the implications.
 
 ### *$100M Offers* by Alex Hormozi
 This book doesn't use tactful language, but it does present a useful abstraction over sales and consumer decision-making. Alex claims that the value consumers attribute to an offering is driven by four factors:
