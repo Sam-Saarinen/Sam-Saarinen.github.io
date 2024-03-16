@@ -4,7 +4,7 @@ type: professional
 title: "[List] Books on Doing Good"
 date: 2023-06-06
 ---
-Last Updated: 2024-01-27
+Last Updated: 2024-03-16
 
 This is a page (that will be updated regularly) of books that I've read (and at least partially recommend) on how to do good in the world. While there may be some books that stray into the philosophical and ethical, most of them will be concerned more with the "how" than the "why". Most of the books on list list I can't recommend in my general reading list as they are audience/intent specific, but for me, reading them has been an essential part of my work.
 
