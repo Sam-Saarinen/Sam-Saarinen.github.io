@@ -3,20 +3,22 @@ layout: default
 title: "(S)am's Expertise"
 ---
 # Overview
-I'm an artificial intelligence researcher and entrepreneur whose primary goal is to provide quality education to all students worldwide. In addition to core technical competencies in AI and software, I've cultivated soft skills in leadership, client development, and communication.
+I'm an artificial intelligence researcher and entrepreneur whose primary goal is to reduce global poverty by providing extraordinary education worldwide. In addition to core technical competencies in AI and software, I've cultivated soft skills in leadership, project management, and communication.
 
 # Vision
 I wrote the book [*Education: The Next Hundred Years*](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520), available through [Barnes and Noble](https://www.barnesandnoble.com/w/education-s-am/1135136001?ean=9781078748520) and as a [Kindle Book on Amazon](https://www.amazon.com/dp/B081ZMRYJJ). The book combines insights from my research, teaching, and consulting experience to provide a roadmap for transforming education over the next century using emerging pedagogical and computational technologies.
 
 # Company
-I founded [Edapt Technologies](https://edapt.tech), which incorporated in November 2021. Within 5 months, we developed a financial literacy assessment suite to help schools in Rhode Island meet a newly legislated graduation requirement, and we became the official state-recommended measure of proficiency. We are now working with multiple national organizations to deliver and improve financial literacy education at scale. Our efforts have been recognized by multiple non-profits and by the state treasurer.
+I founded [Edapt Technologies](https://edapt.tech), which incorporated in November 2021. Within 5 months, we developed a financial literacy assessment suite to help schools in Rhode Island meet a newly legislated graduation requirement, and we became the official state-recommended measure of proficiency. Our efforts have been recognized by multiple non-profits and by the state treasurer.
 
 <img class="right-image portrait-round-corners" src="/assets/FinLitRIAward.jpg" alt="FinLitRI.org Trophy" width="150px"/>
 
-## Other Business Experience
-I've consulted on applications of AI for Speedio in Brazil, Special A Education in China, and several organizations in the US. I'm a board member of the [Franklin Center For Innovation (FCFI)](https://franklincenterforinnovation.com/directory).
+Recently, we've been prototyping tools that help students (across many subjects and ages) to build effective study habits. We were semi-finalists in the 2023 VITAL Prize for our work on a platform and professional learning sequence for middle school math teachers.
 
-I also had the privilege of participating in the 2022 cohort of the Techstars Alabama EnergyTech Accelerator as the founding CTO of PowerTechs Incorporated, a company applying assessment technologies to professional training in the energy industry. Despite substantive differences in culture, language, and professional background, (and an initial 12-hour timezone difference,) my cofounder and I together received mentorship from a diverse group across the energy and entrepreneurship communities, found a market niche, and successfully landed our first pilot customer. (I also [rapped about EnergyTech startups to a packed theater](https://youtu.be/l4lVC8TD9ms?t=4610)!) After the better part of a year, I made the difficult decision to transition out of the company in order to refocus on high-leverage opportunities for technological innovation in key educational processes.
+## Other Business Experience
+I've consulted on applications of AI for a variety of organizations across the US, China, and Brazil. Matt Petersen of New Classrooms says, "Sam stood out to us for his practical and well-informed technical insights as well as his holistic understanding of the educational ecosystem."
+
+I also had the privilege of participating in the 2022 cohort of the Techstars Alabama EnergyTech Accelerator as the founding CTO of PowerTechs Incorporated. During the program, I helped scope and deliver simulator-based task-driven skills assessments for multiple technical roles and facilitated a crowdsourcing-based competition in partnership with multiple community colleges and a major utilities provider. Somehow I also wound up [rapping about EnergyTech startups to a packed theater](https://youtu.be/l4lVC8TD9ms?t=4610).
 
 # AI Competencies
 I have research experience in many flavors of Machine Learning, with a specialization in Reinforcement Learning and Reinforcement Learning Theory. The core of my doctoral work was on the application of machine learning and other innovations to educational problems to improve the scalability and equity of educational innovation. Some of the problems I've developed models for include adaptive assessment, spaced repetition, and content evaluation and recommendation.
@@ -29,9 +31,6 @@ My dissertation, [*Query Strategies for Directed Graphical Models and their Appl
 * LAK 2020: ["Applying Prerequisite Structure Inference to Adaptive Testing"](/artifacts/papers/LAK_2020.pdf), a conference paper about inferring prerequisite relationships between assessment items and leveraging those relationships for efficient adaptive testing.
 * SIGCSE 2019: ["Harnessing the Wisdom of the Classes: Classsourcing and Machine Learning for Assessment Instrument Generation"](/artifacts/papers/SIGCSE_2019.pdf), a conference paper about combining bandit processes, information theory, and crowdsourcing in order to quickly generate statistically validated assessments.
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
-
-## Video Course
-I created the video course "Hands-On Artificial Intelligence for Small Businesses", published through Packt. This course covers several main types of machine learning, and each section discusses a common business problem that can be solved using a technique from the course, including everything from understanding your customers better to making automated recommendations that improve over time. This course also introduces artificial neural networks, t-SNE embeddings, and Thompson sampling for multi-armed bandit processes.
 
 ## Other Experience
 * Interviewed by CEST (Centro de Estudos Sociedade e Tecnologia) about [The Future of AI in Education](https://www.youtube.com/watch?v=Fg0eu_SNlCU) in 2022.
@@ -48,7 +47,7 @@ I also have a thorough background in mathematics and probabilistic analysis. I p
 with stiffness in confinement"](/artifacts/papers/JPhysA_2015.pdf), a journal paper describing sampling methods for random polygons in 3-space under conditions that model the position of DNA in a viral capsid. This was the culmination of several years of research, started when I was 17 years old.
 
 # Software Competencies
-* Full-stack development using React, Ionic (UI framework), and Firebase (backend database, functions, and authentication) for three interconnected web apps/services using TypeScript.
+* Full-stack development using React, Ionic (UI framework), and Firebase (backend database, functions, and authentication) for multiple web apps using TypeScript.
 * Full-stack development using Ruby on Rails for two single-server projects. Additional experience with Django and Angular.
 * Fluency in Python, with significant project experience in Java, Ruby, C++, Mathematica, Matlab, and JavaScript.
 * Professional experience with Anaconda (Python scientific computing collection), PyTorch (deep learning library), and implementations of a variety of deep learning and other machine learning techniques.
@@ -81,7 +80,7 @@ In alphabetical order:
 * Mingxuan Li (M) -Theory of Reinforcement Learning and research in planning under some state abstractions.
 * Steven Li (H) - Game Design and Software Engineering. Created a custom game engine in Python and novel level-design formats.
 * Zhiyin Lin (H) - Research in uncertainty modeling for Machine Learning models and medical decision-making. Coauthor on a AAAI workshop paper.
-* Alvin Miao (H) * - Machine Learning. Working on a project involving brain-computer interfaces.
+* Alvin Miao (H) - Machine Learning. Worked on a project involving brain-computer interfaces.
 * Naveen Srinivasan (M) - Theory of Reinforcement Learning. Worked on a project involving planning with access to a state partition and local options.
 * Yiming Song (H) - Applied Machine Learning. Advised on a project involving instrument segmentation from a mixed audio recording.
 * Ryan Wong (H) - Applied Machine Learning. Combined a variety of techniques to predict needed repairs for bike sharing in New York. Culminated in a submission to a student research competition.
