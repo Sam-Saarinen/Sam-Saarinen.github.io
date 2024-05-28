@@ -54,7 +54,7 @@ When I think about how these lessons apply to education, I think there is a deep
 
 Maybe at some point I'll update this post or my book with some follow-up thoughts on the implications.
 
-### *$100M Offers* by Alex Hormozi
+### *$100M Offers* by Alex Hormozi (and its sequel, *$100M Leads*)
 This book doesn't use tactful language, but it does present a useful abstraction over sales and consumer decision-making. Alex claims that the value consumers attribute to an offering is driven by four factors:
 - The Dream Outcome (/Current Pain) - What is the gap (and how clearly envisioned is it) between the customer's current reality and their end goal? The bigger the problem you solve, the more valuable the solution. Framing affects the value proposition a lot.
 - The Perceived Likelihood of Achievement - How confident is the customer that your solution will actually solve their problem? This is an especially important factor for startups, as they usually have low brand credibility, but they can improve purchase confidence by demonstrating evidence of past success, giving customers trials, and by offering guarantees.
@@ -62,6 +62,18 @@ This book doesn't use tactful language, but it does present a useful abstraction
 - The Perceived Effort and Sacrifice - Outside of the financial cost, there's the effort of learning how to use the solution, the potential changes that will have to be made as a consequence of the solution, and the ongoing effort that remains. Streamlining purchase and onboarding processes has an enormous impact on the attractiveness of an offering.
 
 Notably, these four factors are all primarily perceptual (although they are hopefully based on real considerations), and startups tend to overindex on just one or two of these dials, missing opportunities to capture more of the real value they are offering.
+
+In the sequel, *$100M Leads*, Alex provides some frameworks for thinking about marketing that help to make sense of how businesses with a winning offer (a product and price point some people want) can scale sales of that one offer to the size of the available market. Although the book does offer some interesting tactics, I think its main value is actually in the clarity it brings to the sales scaling process and the benchmark numbers it uses to help with diagnosing scaling bottlenecks. After reading *The Goal*, I see a lot of parallels around identifying and addressing bottlenecks, then scaling until the next limiting factor is reached. I left the book with a clear picture of what it looks like to scale a profitable business effectively, but as Alex points out many times in the book, many businesses don't scale because their offer isn't as good as they think it is. Some of the big ideas that I found elucidating:
+- A great way to build trust (increasing buyers' confidence, and therefore the price they're willing to pay) is to give potential customers a low-stakes way to "practice" doing business with you. For example, they might trade their time, attention, or contact information for a free "lead magnet" that provides some immediate value to them (and hopefully also illustrates the potential value of your main offering).
+- To engage with potential customers (leads), there are three questions to answer that affect what that looks like:
+  - Are you doing the work, or is someone else? (Businesses often scale by moving work from the founder to scalable processes.)
+  - Are these leads people who already know about you, or people who don't?
+  - Are you reaching out to these leads privately (one at a time), or publicly (many at a time)?
+- Speed of scaling comes down to the ratio between lifetime gross profit and customer acquisition cost, and time to recoup the outlay. Discounts for paying up-front can bring ROI timelines inside the "magic" 30-day window where cheap credit can eliminate cash as a bottleneck on business expansion.
+- When you plateau with an operationally-profitable business, the first question to ask is whether you can just do more of what you're already doing (e.g. scale advertising or free content production by a factor of 10). If you can't (say because of diminishing returns), then you should ask if you can do the same kind of thing, but better. If that's unrealistic (e.g. you're already performing within a factor of 3 of market competitors), then you should ask what new approach you'll add on next (e.g. a new platform or different answers to the 3 earlier questions).
+- As you scale, your core offering will need to continue to improve in order to appeal to broader audiences. Referral rate is a great metric for product quality and also a primary factor in scalable growth.
+
+This is a book that feels common-sense in hindsight, but probably affected my thinking a lot more than I realize.
 
 ### *Team of Teams* by General Stanley McChrystal (with Tantum Collins, Chris Fussell, and David Silverman)
 Stan McChrystal was the director of the US Special Task Force in the war on Al Queda in Iraq (AQI), and relates how the task force was transformed over the course of the war from a siloed organization overindexing on individual efficiencies to a responsive organization that optimized for end-to-end organizational efficacy. While the context of the war was illuminating (I was too young to know much about it when it was happening), the lessons for management tie in quite nicely with the takeaways from _The Goal_ and _The Lean Startup_.
