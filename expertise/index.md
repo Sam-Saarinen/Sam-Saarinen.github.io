@@ -33,6 +33,7 @@ My dissertation, [*Query Strategies for Directed Graphical Models and their Appl
 * ArXiv 2018: ["Personalized Education at Scale"](https://arxiv.org/pdf/1809.10025.pdf), a brief survey paper summarizing some obstacles and opportunities for Reinforcement Learning to dramatically improve educational outcomes.
 
 ## Other Experience
+* Guest on the AI Wave podcast as part of their series on [AI and Education](https://www.youtube.com/watch?v=ZDMBxdQOkM4) (in 2024).
 * Interviewed by CEST (Centro de Estudos Sociedade e Tecnologia) about [The Future of AI in Education](https://www.youtube.com/watch?v=Fg0eu_SNlCU) in 2022.
 * Invited speaker at the [_1st Conference in the Middle East on AI in Higher Education_](https://youtu.be/K2Ct4GqTSFk?t=3702), speaking on "AI and Data Privacy in Higher Education" in late 2021.
 * Reviewer for AAAI 2022, IJCAI-PRICAI 2020.
