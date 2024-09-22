@@ -94,4 +94,13 @@ Similar to _The Goal_ and _The Lean Startup_, a major theme is that organization
 
 General McChrystal identifies two major thrusts that transformed the task force and led to a more than 17x increase in organizational throughput. The first was creating a "shared consciousness" --- aggressively aggregating and sharing knowledge across the organization, redesigning physical spaces to encourage communication and transparency, and creating extensive rotational liaison programs to improve inter-team trust and functional understanding. The second major thrust was to empower distributed decision-making, reducing communication overhead and eliminating bottlenecks on in-situ responsiveness. McChrystal frames this as a major challenge to leadership to shift from being heroes to being gardeners. Where Taylor, Ford, and other business pioneers found system-level efficiencies by standardizing repetitive processes, many modern problems are now made difficult by their dynamism. It is responsiveness (or agility), not single-task efficiency, that determines the success of many modern organizations.
 
+### *Rocket Fuel* by Gino Wickman and Mark C. Winters
+
+This book exhibits several of the genre tropes I dislike in business literature:
+- Despite its brevity, the book feels too long for its concept.
+- It's full of trademarked names for generic concepts.
+- Most of the anecdotes lack the detail necessary to take them beyond exercises in circular reasoning.
+
+Despite this, there were some very useful nuggets. The main premise of the book is that most mid-size businesses are bottlenecked by the founder trying to manage both the future-facing and present aspects of the business. By separating the responsibilities of the "visionary" (R&D, partnerships, and strategy) from the responsibilities of the "integrator" (operations, management), most companies can scale much faster. This resembles the typical CEO/COO split in most large companies, and the authors highlight that these two leadership roles draw on very different strengths (big picture thinking vs. detail orientation, e.g.) and are typically very difficult for any one person to do simultaneously.
+
 ---
