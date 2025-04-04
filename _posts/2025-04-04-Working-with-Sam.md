@@ -69,7 +69,7 @@ With that said, my philosophy around work is heavily influenced by *The Goal* by
 - Thus, most technical organizations would benefit from tracking and shortening the total time, effort, and cost required to:
     - have an idea
     - develop a way to falsify (test) the idea
-    - collecting data based on the experiment
+    - collect data based on the experiment
     - draw conclusions and learn from the results.
 - At a structural level, most teams’ efficacy is limited because they optimize for individual efficiencies (”How much did I accomplish this week?”) instead of for team efficiencies (”How much progress did the team make toward the goal?”)
     - Sometimes sitting idle is better than creating more work for the person bottlenecking the team.
