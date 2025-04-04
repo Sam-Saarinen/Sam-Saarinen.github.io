@@ -1,7 +1,7 @@
 ---
 layout: post
 type: professional
-title: "\[Field Notes\] Working with (S)am: A Survival Guide"
+title: "[Field Notes] Working with (S)am: A Survival Guide"
 date: 2025-04-04
 ---
 
@@ -53,7 +53,7 @@ With that said, my philosophy around work is heavily influenced by *The Goal* by
 
 - Work begins with defining a goal. If there’s no goal, then it’s play, not work.
 - Efforts that don’t bring you closer to the goal are wasted.
-- Any production system will have couplings such that failure or constraints in one part affect all the others. (E.g. it doesn’t matter how many bottles Coca-cola can make if there’s not enough freshwater for their beverages.)
+- Any production system will have couplings such that failure or constraints in one part affect all the others. (E.g. it doesn’t matter how many bottles Coca-Cola can make if there’s not enough freshwater for their beverages.)
 - The current bottlenecks on any interconnected system are likely to stem from a small number of (or even one) components.
 - (The longer we live inside a constraint, the harder it becomes to perceive.)
 - Improving the throughput of the bottleneck often produces orders-of-magnitude more progress towards the goal than equivalent efforts directed at the wrong part of the system.
