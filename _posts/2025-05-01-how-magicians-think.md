@@ -1,7 +1,7 @@
 ---
 layout: post
 type: professional
-title: "[Field Notes] Working with (S)am: A Survival Guide"
+title: "[Critical Review] How Magicians Think, by Joshua Jay"
 date: 2025-05-01
 ---
 
