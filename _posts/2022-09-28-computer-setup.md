@@ -55,6 +55,23 @@ After the Techstars program concluded \[this section is an edit to the original 
 18. Install LibreOffice
 17. Push these instruction updates to GitHub Pages
 
+## Edit: Setting up a Mac in 2025
+I got a Macbook Pro (laptop not replacing my desktop) through my new R&D role and needed to port over my toolchain. Now, more than ever, most of my work is in the browser. But there were still some details to getting up and running that were particular to a Mac:
+1. Login, set up auth for IT management software.
+2. Install Brave Browser. Sync bookmarks. Install work-related extensions. (Begin signing into Gmail, Notion, GitHub, ...)
+	- Also install OneTab extension and Google Scholar PDF Viewer
+3. Install Cursor (based on VSCode, which I also installed as backup).
+4. Install Command Line Developer Tools (specific to Mac, includes git)
+5. Install homebrew ("brew")
+6. Install GitHub CLI `brew install gh`
+7. Install Anaconda (Python, conda, Jupyter included) - Open and update to latest version. Apparently includes VS Code now.
+8. Install Node, nvm, pnpm, firebase-tools, aws cli
+9. Install Docker
+10. Install Slack
+11. Install Zoom
+12. Install .Net
+13. Install Mouse Software - Key mapping, etc. (Trying Karabiner Elements, also testing virtual bluetooth device via reWASD on Windows.)
+
 ## Unnecessary Commentary
 A lot of the work I do uses cloud software, and all of my essential files are backed up to the cloud (either via Google Drive, Dropbox, or GitHub), so most of what I have to install are OS- or hardware- -related software packages. Although I do occasionally play games on my desktop (game design is an academic hobby of mine), much of the gaming-related hardware and software I have fulfills business purposes. For example, the case has controllable RGB lighting, but I only got it because it provided the best options for ventilation and multiple fans. I also use the Logitech G600 mouse (originally intended for playing MMO's, I think) because it was the mouse I found with the most buttons available. By setting the buttons to perform operations useful to editing code (and more broadly, document and file manipulation), I'm able to do a larger fraction of my work without switching back and forth between the mouse and keyboard. I'm still on the lookout for more efficient input tools.
 
